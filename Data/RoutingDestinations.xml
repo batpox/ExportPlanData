@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <RoutingDestinations>
+    <ResourceName>Cut</ResourceName>
+    <Node>Input@Cut1</Node>
+  </RoutingDestinations>
+  <RoutingDestinations>
+    <ResourceName>Cut</ResourceName>
+    <Node>Input@Cut2</Node>
+  </RoutingDestinations>
+  <RoutingDestinations>
+    <ResourceName>Shape</ResourceName>
+    <Node>Input@Shape1</Node>
+  </RoutingDestinations>
+  <RoutingDestinations>
+    <ResourceName>Shape</ResourceName>
+    <Node>Input@Shape2</Node>
+  </RoutingDestinations>
+  <RoutingDestinations>
+    <ResourceName>Weld</ResourceName>
+    <Node>Input@Weld1</Node>
+  </RoutingDestinations>
+  <RoutingDestinations>
+    <ResourceName>Weld</ResourceName>
+    <Node>Input@Weld2</Node>
+  </RoutingDestinations>
+  <RoutingDestinations>
+    <ResourceName>Finish</ResourceName>
+    <Node>Input@Finish1</Node>
+  </RoutingDestinations>
+  <RoutingDestinations>
+    <ResourceName>Finish</ResourceName>
+    <Node>Input@Finish2</Node>
+  </RoutingDestinations>
+</DocumentElement>

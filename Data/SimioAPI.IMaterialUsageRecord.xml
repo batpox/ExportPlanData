@@ -1,0 +1,591 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/1/2018 8:00:00 AM</Time>
+    <MaterialName>FinishedGoodA</MaterialName>
+    <LotId />
+    <EntityId />
+    <EntityName />
+    <SiteId />
+    <SiteName />
+    <Quantity>0</Quantity>
+    <StockLevel>0</StockLevel>
+    <LotStockLevel>0</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/1/2018 8:00:00 AM</Time>
+    <MaterialName>FinishedGoodB</MaterialName>
+    <LotId />
+    <EntityId />
+    <EntityName />
+    <SiteId />
+    <SiteName />
+    <Quantity>0</Quantity>
+    <StockLevel>0</StockLevel>
+    <LotStockLevel>0</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/1/2018 8:00:00 AM</Time>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <LotId />
+    <EntityId />
+    <EntityName />
+    <SiteId />
+    <SiteName />
+    <Quantity>0</Quantity>
+    <StockLevel>0</StockLevel>
+    <LotStockLevel>0</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/1/2018 8:00:00 AM</Time>
+    <MaterialName>MaterialX</MaterialName>
+    <LotId />
+    <EntityId />
+    <EntityName />
+    <SiteId />
+    <SiteName />
+    <Quantity>0</Quantity>
+    <StockLevel>0</StockLevel>
+    <LotStockLevel>0</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/1/2018 8:00:00 AM</Time>
+    <MaterialName>MaterialX</MaterialName>
+    <LotId />
+    <EntityId />
+    <EntityName />
+    <SiteId />
+    <SiteName />
+    <Quantity>1000</Quantity>
+    <StockLevel>1000</StockLevel>
+    <LotStockLevel>1000</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/1/2018 8:00:00 AM</Time>
+    <MaterialName>MaterialY</MaterialName>
+    <LotId />
+    <EntityId />
+    <EntityName />
+    <SiteId />
+    <SiteName />
+    <Quantity>0</Quantity>
+    <StockLevel>0</StockLevel>
+    <LotStockLevel>0</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/1/2018 8:00:00 AM</Time>
+    <MaterialName>MaterialY</MaterialName>
+    <LotId />
+    <EntityId />
+    <EntityName />
+    <SiteId />
+    <SiteName />
+    <Quantity>2000</Quantity>
+    <StockLevel>2000</StockLevel>
+    <LotStockLevel>2000</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/3/2018 11:00:02 AM</Time>
+    <MaterialName>MaterialX</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.38</EntityId>
+    <EntityName>Order04</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>20</Quantity>
+    <StockLevel>1020</StockLevel>
+    <LotStockLevel>1020</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/3/2018 11:00:05 AM</Time>
+    <MaterialName>MaterialY</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.45</EntityId>
+    <EntityName>Order10</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>-20</Quantity>
+    <StockLevel>1980</StockLevel>
+    <LotStockLevel>1980</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/3/2018 3:54:05 PM</Time>
+    <MaterialName>MaterialX</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.45</EntityId>
+    <EntityName>Order10</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>20</Quantity>
+    <StockLevel>1040</StockLevel>
+    <LotStockLevel>1040</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/3/2018 3:54:08 PM</Time>
+    <MaterialName>MaterialY</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.46</EntityId>
+    <EntityName>Order11</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>-20</Quantity>
+    <StockLevel>1960</StockLevel>
+    <LotStockLevel>1960</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/3/2018 4:18:04 PM</Time>
+    <MaterialName>MaterialY</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.41</EntityId>
+    <EntityName>Order06</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>-30</Quantity>
+    <StockLevel>1930</StockLevel>
+    <LotStockLevel>1930</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/3/2018 4:18:09 PM</Time>
+    <MaterialName>FinishedGoodB</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.37</EntityId>
+    <EntityName>Order03</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>10</StockLevel>
+    <LotStockLevel>10</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/4/2018 10:48:08 AM</Time>
+    <MaterialName>MaterialX</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.46</EntityId>
+    <EntityName>Order11</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>20</Quantity>
+    <StockLevel>1060</StockLevel>
+    <LotStockLevel>1060</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/4/2018 10:48:11 AM</Time>
+    <MaterialName>MaterialY</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.51</EntityId>
+    <EntityName>Order16</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>-20</Quantity>
+    <StockLevel>1910</StockLevel>
+    <LotStockLevel>1910</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/4/2018 11:24:19 AM</Time>
+    <MaterialName>FinishedGoodB</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.38</EntityId>
+    <EntityName>Order04</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>20</StockLevel>
+    <LotStockLevel>20</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/4/2018 1:54:28 PM</Time>
+    <MaterialName>FinishedGoodA</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.36</EntityId>
+    <EntityName>Order01</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>10</StockLevel>
+    <LotStockLevel>10</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/4/2018 2:18:06 PM</Time>
+    <MaterialName>MaterialY</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.42</EntityId>
+    <EntityName>Order07</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>-30</Quantity>
+    <StockLevel>1880</StockLevel>
+    <LotStockLevel>1880</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/4/2018 3:42:11 PM</Time>
+    <MaterialName>MaterialX</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.51</EntityId>
+    <EntityName>Order16</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>20</Quantity>
+    <StockLevel>1080</StockLevel>
+    <LotStockLevel>1080</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/4/2018 3:42:13 PM</Time>
+    <MaterialName>MaterialY</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.55</EntityId>
+    <EntityName>Order20</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>-20</Quantity>
+    <StockLevel>1860</StockLevel>
+    <LotStockLevel>1860</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/5/2018 8:24:21 AM</Time>
+    <MaterialName>FinishedGoodB</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.45</EntityId>
+    <EntityName>Order10</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>30</StockLevel>
+    <LotStockLevel>30</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/5/2018 9:18:30 AM</Time>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.39</EntityId>
+    <EntityName>Order05</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>10</StockLevel>
+    <LotStockLevel>10</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/5/2018 9:18:30 AM</Time>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.39</EntityId>
+    <EntityName>Order05</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>20</StockLevel>
+    <LotStockLevel>20</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/5/2018 9:18:30 AM</Time>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.39</EntityId>
+    <EntityName>Order05</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>30</StockLevel>
+    <LotStockLevel>30</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/5/2018 10:36:13 AM</Time>
+    <MaterialName>MaterialX</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.55</EntityId>
+    <EntityName>Order20</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>20</Quantity>
+    <StockLevel>1100</StockLevel>
+    <LotStockLevel>1100</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/5/2018 10:36:16 AM</Time>
+    <MaterialName>MaterialY</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.56</EntityId>
+    <EntityName>Order21</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>-20</Quantity>
+    <StockLevel>1840</StockLevel>
+    <LotStockLevel>1840</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/5/2018 11:18:09 AM</Time>
+    <MaterialName>MaterialY</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.48</EntityId>
+    <EntityName>Order13</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>-30</Quantity>
+    <StockLevel>1810</StockLevel>
+    <LotStockLevel>1810</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/5/2018 2:24:23 PM</Time>
+    <MaterialName>FinishedGoodB</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.46</EntityId>
+    <EntityName>Order11</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>40</StockLevel>
+    <LotStockLevel>40</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/5/2018 3:30:16 PM</Time>
+    <MaterialName>MaterialX</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.56</EntityId>
+    <EntityName>Order21</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>20</Quantity>
+    <StockLevel>1120</StockLevel>
+    <LotStockLevel>1120</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/5/2018 3:30:19 PM</Time>
+    <MaterialName>MaterialY</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.61</EntityId>
+    <EntityName>Order26</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>-20</Quantity>
+    <StockLevel>1790</StockLevel>
+    <LotStockLevel>1790</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/5/2018 3:30:27 PM</Time>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.41</EntityId>
+    <EntityName>Order06</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>40</StockLevel>
+    <LotStockLevel>40</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/5/2018 3:30:27 PM</Time>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.41</EntityId>
+    <EntityName>Order06</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>50</StockLevel>
+    <LotStockLevel>50</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/5/2018 3:30:27 PM</Time>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.41</EntityId>
+    <EntityName>Order06</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>60</StockLevel>
+    <LotStockLevel>60</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/6/2018 9:18:11 AM</Time>
+    <MaterialName>MaterialY</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.50</EntityId>
+    <EntityName>Order15</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>-30</Quantity>
+    <StockLevel>1760</StockLevel>
+    <LotStockLevel>1760</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/6/2018 10:24:19 AM</Time>
+    <MaterialName>MaterialX</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.61</EntityId>
+    <EntityName>Order26</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>20</Quantity>
+    <StockLevel>1140</StockLevel>
+    <LotStockLevel>1140</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/6/2018 10:24:22 AM</Time>
+    <MaterialName>MaterialY</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.52</EntityId>
+    <EntityName>Order17</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>-30</Quantity>
+    <StockLevel>1730</StockLevel>
+    <LotStockLevel>1730</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/6/2018 10:24:25 AM</Time>
+    <MaterialName>FinishedGoodB</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.51</EntityId>
+    <EntityName>Order16</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>50</StockLevel>
+    <LotStockLevel>50</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/6/2018 11:30:29 AM</Time>
+    <MaterialName>FinishedGoodB</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.55</EntityId>
+    <EntityName>Order20</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>60</StockLevel>
+    <LotStockLevel>60</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/6/2018 3:48:27 PM</Time>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.42</EntityId>
+    <EntityName>Order07</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>70</StockLevel>
+    <LotStockLevel>70</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/6/2018 3:48:27 PM</Time>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.42</EntityId>
+    <EntityName>Order07</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>80</StockLevel>
+    <LotStockLevel>80</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/6/2018 3:48:27 PM</Time>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.42</EntityId>
+    <EntityName>Order07</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>90</StockLevel>
+    <LotStockLevel>90</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/6/2018 4:18:13 PM</Time>
+    <MaterialName>MaterialY</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.58</EntityId>
+    <EntityName>Order23</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>-30</Quantity>
+    <StockLevel>1700</StockLevel>
+    <LotStockLevel>1700</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/7/2018 8:30:32 AM</Time>
+    <MaterialName>FinishedGoodB</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.56</EntityId>
+    <EntityName>Order21</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>70</StockLevel>
+    <LotStockLevel>70</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/7/2018 11:48:28 AM</Time>
+    <MaterialName>FinishedGoodB</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.61</EntityId>
+    <EntityName>Order26</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>80</StockLevel>
+    <LotStockLevel>80</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/7/2018 1:54:34 PM</Time>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.48</EntityId>
+    <EntityName>Order13</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>100</StockLevel>
+    <LotStockLevel>100</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/7/2018 1:54:34 PM</Time>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.48</EntityId>
+    <EntityName>Order13</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>110</StockLevel>
+    <LotStockLevel>110</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/7/2018 1:54:34 PM</Time>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.48</EntityId>
+    <EntityName>Order13</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>10</Quantity>
+    <StockLevel>120</StockLevel>
+    <LotStockLevel>120</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/7/2018 2:18:16 PM</Time>
+    <MaterialName>MaterialY</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.60</EntityId>
+    <EntityName>Order25</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>-30</Quantity>
+    <StockLevel>1670</StockLevel>
+    <LotStockLevel>1670</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+  <SimioAPI.IMaterialUsageRecord>
+    <Time>12/7/2018 2:24:25 PM</Time>
+    <MaterialName>MaterialY</MaterialName>
+    <LotId />
+    <EntityId>DefaultEntity.62</EntityId>
+    <EntityName>Order49</EntityName>
+    <SiteId />
+    <SiteName />
+    <Quantity>-30</Quantity>
+    <StockLevel>1640</StockLevel>
+    <LotStockLevel>1640</LotStockLevel>
+  </SimioAPI.IMaterialUsageRecord>
+</DocumentElement>

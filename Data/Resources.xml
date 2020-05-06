@@ -1,0 +1,195 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Resources>
+    <ResourceName>Cut</ResourceName>
+    <Description>Cut</Description>
+    <XLocation>-8</XLocation>
+    <ZLocation>5</ZLocation>
+    <ObjectType>SchedTransferNode</ObjectType>
+    <WorkSchedule>StandardWeek</WorkSchedule>
+    <CostRate>0</CostRate>
+    <ChangeoverMatrix />
+    <SecondaryResourceName />
+    <ChangeoverEfficiency>1</ChangeoverEfficiency>
+  </Resources>
+  <Resources>
+    <ResourceName>Cut1</ResourceName>
+    <Description>Cut1</Description>
+    <XLocation>-4</XLocation>
+    <ZLocation>2</ZLocation>
+    <ObjectType>SchedServer</ObjectType>
+    <WorkSchedule>StandardWeek</WorkSchedule>
+    <CostRate>20</CostRate>
+    <ChangeoverMatrix>MaterialColorMatrix</ChangeoverMatrix>
+    <SecondaryResourceName />
+    <ChangeoverEfficiency>1</ChangeoverEfficiency>
+  </Resources>
+  <Resources>
+    <ResourceName>Cut2</ResourceName>
+    <Description>Cut2</Description>
+    <XLocation>-4</XLocation>
+    <ZLocation>7</ZLocation>
+    <ObjectType>SchedServer</ObjectType>
+    <WorkSchedule>StandardWeek</WorkSchedule>
+    <CostRate>20</CostRate>
+    <ChangeoverMatrix>MaterialColorMatrix</ChangeoverMatrix>
+    <SecondaryResourceName />
+    <ChangeoverEfficiency>1</ChangeoverEfficiency>
+  </Resources>
+  <Resources>
+    <ResourceName>Finish</ResourceName>
+    <Description>Finish</Description>
+    <XLocation>12</XLocation>
+    <ZLocation>5</ZLocation>
+    <ObjectType>SchedTransferNode</ObjectType>
+    <WorkSchedule>StandardWeek</WorkSchedule>
+    <CostRate>0</CostRate>
+    <ChangeoverMatrix />
+    <SecondaryResourceName />
+    <ChangeoverEfficiency>1</ChangeoverEfficiency>
+  </Resources>
+  <Resources>
+    <ResourceName>Finish1</ResourceName>
+    <Description>Finish1</Description>
+    <XLocation>15</XLocation>
+    <ZLocation>2</ZLocation>
+    <ObjectType>SchedServer</ObjectType>
+    <WorkSchedule>StandardWeek</WorkSchedule>
+    <CostRate>20</CostRate>
+    <ChangeoverMatrix />
+    <SecondaryResourceName />
+    <ChangeoverEfficiency>1</ChangeoverEfficiency>
+  </Resources>
+  <Resources>
+    <ResourceName>Finish2</ResourceName>
+    <Description>Finish2</Description>
+    <XLocation>15</XLocation>
+    <ZLocation>7</ZLocation>
+    <ObjectType>SchedServer</ObjectType>
+    <WorkSchedule>StandardWeek</WorkSchedule>
+    <CostRate>20</CostRate>
+    <ChangeoverMatrix />
+    <SecondaryResourceName />
+    <ChangeoverEfficiency>1</ChangeoverEfficiency>
+  </Resources>
+  <Resources>
+    <ResourceName>MoArrivals</ResourceName>
+    <Description>MoArrivals</Description>
+    <XLocation>-14</XLocation>
+    <ZLocation>5</ZLocation>
+    <ObjectType>SchedSource</ObjectType>
+    <WorkSchedule>StandardWeek</WorkSchedule>
+    <CostRate>0</CostRate>
+    <ChangeoverMatrix />
+    <SecondaryResourceName />
+    <ChangeoverEfficiency>1</ChangeoverEfficiency>
+  </Resources>
+  <Resources>
+    <ResourceName>Resource1</ResourceName>
+    <Description>Resource1</Description>
+    <XLocation>-14</XLocation>
+    <ZLocation>-3</ZLocation>
+    <ObjectType>SchedResource</ObjectType>
+    <WorkSchedule>StandardWeek</WorkSchedule>
+    <CostRate>20</CostRate>
+    <ChangeoverMatrix />
+    <SecondaryResourceName />
+    <ChangeoverEfficiency>1</ChangeoverEfficiency>
+  </Resources>
+  <Resources>
+    <ResourceName>Resource2</ResourceName>
+    <Description>Resource2</Description>
+    <XLocation>-14</XLocation>
+    <ZLocation>1</ZLocation>
+    <ObjectType>SchedResource</ObjectType>
+    <WorkSchedule>StandardWeek</WorkSchedule>
+    <CostRate>20</CostRate>
+    <ChangeoverMatrix />
+    <SecondaryResourceName />
+    <ChangeoverEfficiency>1</ChangeoverEfficiency>
+  </Resources>
+  <Resources>
+    <ResourceName>Shape</ResourceName>
+    <Description>Shape</Description>
+    <XLocation>5</XLocation>
+    <ZLocation>-1</ZLocation>
+    <ObjectType>SchedTransferNode</ObjectType>
+    <WorkSchedule>StandardWeek</WorkSchedule>
+    <CostRate>0</CostRate>
+    <ChangeoverMatrix />
+    <SecondaryResourceName />
+    <ChangeoverEfficiency>1</ChangeoverEfficiency>
+  </Resources>
+  <Resources>
+    <ResourceName>Shape1</ResourceName>
+    <Description>Shape1</Description>
+    <XLocation>1</XLocation>
+    <ZLocation>-2</ZLocation>
+    <ObjectType>SchedServer</ObjectType>
+    <WorkSchedule>StandardWeek</WorkSchedule>
+    <CostRate>20</CostRate>
+    <ChangeoverMatrix />
+    <SecondaryResourceName />
+    <ChangeoverEfficiency>1</ChangeoverEfficiency>
+  </Resources>
+  <Resources>
+    <ResourceName>Shape2</ResourceName>
+    <Description>Shape2</Description>
+    <XLocation>9</XLocation>
+    <ZLocation>-2</ZLocation>
+    <ObjectType>SchedServer</ObjectType>
+    <WorkSchedule>StandardWeek</WorkSchedule>
+    <CostRate>20</CostRate>
+    <ChangeoverMatrix />
+    <SecondaryResourceName />
+    <ChangeoverEfficiency>1</ChangeoverEfficiency>
+  </Resources>
+  <Resources>
+    <ResourceName>Ship</ResourceName>
+    <Description>Ship</Description>
+    <XLocation>20</XLocation>
+    <ZLocation>5</ZLocation>
+    <ObjectType>SchedSink</ObjectType>
+    <WorkSchedule>StandardWeek</WorkSchedule>
+    <CostRate>0</CostRate>
+    <ChangeoverMatrix />
+    <SecondaryResourceName />
+    <ChangeoverEfficiency>1</ChangeoverEfficiency>
+  </Resources>
+  <Resources>
+    <ResourceName>Weld</ResourceName>
+    <Description>Weld</Description>
+    <XLocation>5</XLocation>
+    <ZLocation>11</ZLocation>
+    <ObjectType>SchedTransferNode</ObjectType>
+    <WorkSchedule>StandardWeek</WorkSchedule>
+    <CostRate>0</CostRate>
+    <ChangeoverMatrix />
+    <SecondaryResourceName />
+    <ChangeoverEfficiency>1</ChangeoverEfficiency>
+  </Resources>
+  <Resources>
+    <ResourceName>Weld1</ResourceName>
+    <Description>Weld1</Description>
+    <XLocation>1</XLocation>
+    <ZLocation>12</ZLocation>
+    <ObjectType>SchedServer</ObjectType>
+    <WorkSchedule>StandardWeek</WorkSchedule>
+    <CostRate>20</CostRate>
+    <ChangeoverMatrix />
+    <SecondaryResourceName>Resource1</SecondaryResourceName>
+    <ChangeoverEfficiency>1</ChangeoverEfficiency>
+  </Resources>
+  <Resources>
+    <ResourceName>Weld2</ResourceName>
+    <Description>Weld2</Description>
+    <XLocation>9</XLocation>
+    <ZLocation>12</ZLocation>
+    <ObjectType>SchedServer</ObjectType>
+    <WorkSchedule>StandardWeek</WorkSchedule>
+    <CostRate>20</CostRate>
+    <ChangeoverMatrix />
+    <SecondaryResourceName>Resource2</SecondaryResourceName>
+    <ChangeoverEfficiency>1</ChangeoverEfficiency>
+  </Resources>
+</DocumentElement>

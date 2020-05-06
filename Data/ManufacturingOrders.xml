@@ -1,0 +1,327 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <ManufacturingOrders>
+    <OrderId>Order01</OrderId>
+    <MaterialName>FinishedGoodA</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/10/2018 4:00:00 PM</DueDate>
+    <OrderStatus>WIP</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate>12/4/2018 1:54:30 PM</ShipDate>
+    <ProductionCost>1228</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order02</OrderId>
+    <MaterialName>FinishedGoodA</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/5/2018 4:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate />
+    <ProductionCost>0</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order03</OrderId>
+    <MaterialName>FinishedGoodB</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/7/2018 4:00:00 PM</DueDate>
+    <OrderStatus>WIP</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate>12/3/2018 4:18:12 PM</ShipDate>
+    <ProductionCost>1166</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order04</OrderId>
+    <MaterialName>FinishedGoodB</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/5/2018 4:00:00 PM</DueDate>
+    <OrderStatus>WIP</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate>12/4/2018 11:24:22 AM</ShipDate>
+    <ProductionCost>1278</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order05</OrderId>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/6/2018 4:00:00 PM</DueDate>
+    <OrderStatus>WIP</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate>12/5/2018 9:18:33 AM</ShipDate>
+    <ProductionCost>1430</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order06</OrderId>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/3/2018 4:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate>12/5/2018 3:30:29 PM</ShipDate>
+    <ProductionCost>2704</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order07</OrderId>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/3/2018 4:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate>12/6/2018 3:48:29 PM</ShipDate>
+    <ProductionCost>2704</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order08</OrderId>
+    <MaterialName>FinishedGoodA</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/12/2018 11:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate />
+    <ProductionCost>0</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order09</OrderId>
+    <MaterialName>FinishedGoodA</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/14/2018 9:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate />
+    <ProductionCost>0</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order10</OrderId>
+    <MaterialName>FinishedGoodB</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/13/2018 4:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate>12/5/2018 8:24:23 AM</ShipDate>
+    <ProductionCost>1846</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order11</OrderId>
+    <MaterialName>FinishedGoodB</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/14/2018 2:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate>12/5/2018 2:24:25 PM</ShipDate>
+    <ProductionCost>1846</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order12</OrderId>
+    <MaterialName>FinishedGoodA</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/19/2018 1:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate />
+    <ProductionCost>0</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order13</OrderId>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/12/2018 12:00:00 AM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate>12/7/2018 1:54:37 PM</ShipDate>
+    <ProductionCost>2704</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order14</OrderId>
+    <MaterialName>FinishedGoodA</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/19/2018 2:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate />
+    <ProductionCost>0</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order15</OrderId>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/13/2018 10:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate />
+    <ProductionCost>0</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order16</OrderId>
+    <MaterialName>FinishedGoodB</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/19/2018 1:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate>12/6/2018 10:24:27 AM</ShipDate>
+    <ProductionCost>1846</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order17</OrderId>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/19/2018 1:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate />
+    <ProductionCost>0</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order18</OrderId>
+    <MaterialName>FinishedGoodA</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/12/2018 11:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate />
+    <ProductionCost>0</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order19</OrderId>
+    <MaterialName>FinishedGoodA</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/14/2018 9:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate />
+    <ProductionCost>0</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order20</OrderId>
+    <MaterialName>FinishedGoodB</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/13/2018 4:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate>12/6/2018 11:30:32 AM</ShipDate>
+    <ProductionCost>1846</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order21</OrderId>
+    <MaterialName>FinishedGoodB</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/14/2018 2:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate>12/7/2018 8:30:34 AM</ShipDate>
+    <ProductionCost>1846</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order22</OrderId>
+    <MaterialName>FinishedGoodA</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/19/2018 1:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate />
+    <ProductionCost>0</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order23</OrderId>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/12/2018 12:00:00 AM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate />
+    <ProductionCost>0</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order24</OrderId>
+    <MaterialName>FinishedGoodA</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/19/2018 1:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate />
+    <ProductionCost>0</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order25</OrderId>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/13/2018 10:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate />
+    <ProductionCost>0</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order26</OrderId>
+    <MaterialName>FinishedGoodB</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/19/2018 1:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate>12/7/2018 11:48:31 AM</ShipDate>
+    <ProductionCost>1846</ProductionCost>
+  </ManufacturingOrders>
+  <ManufacturingOrders>
+    <OrderId>Order49</OrderId>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <ReleaseDate>12/1/2018 12:00:00 AM</ReleaseDate>
+    <DueDate>12/19/2018 1:00:00 PM</DueDate>
+    <OrderStatus>New</OrderStatus>
+    <Priority>1</Priority>
+    <Quantity>10</Quantity>
+    <AdjustedReleaseDate>Math.If(ManufacturingOrders.OrderStatus == List.OrderStatus.WIP, Math.Max(ManufacturingOrders.ReleaseDate, 0.0), Math.Max(ManufacturingOrders.ReleaseDate, Math.Epsilon))</AdjustedReleaseDate>
+    <ShipDate />
+    <ProductionCost>0</ProductionCost>
+  </ManufacturingOrders>
+</DocumentElement>

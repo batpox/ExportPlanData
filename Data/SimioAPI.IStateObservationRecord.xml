@@ -1,0 +1,1123 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/1/2018 8:00:00 AM</StartTime>
+    <EndTime>12/4/2018 1:54:28 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodA</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>0</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/1/2018 8:00:00 AM</StartTime>
+    <EndTime>12/3/2018 4:18:09 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodB</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>0</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/1/2018 8:00:00 AM</StartTime>
+    <EndTime>12/5/2018 9:18:30 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodC</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>0</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/1/2018 8:00:00 AM</StartTime>
+    <EndTime>12/3/2018 11:00:05 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialX</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1000</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/1/2018 8:00:00 AM</StartTime>
+    <EndTime>12/3/2018 11:00:05 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>2000</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/3/2018 11:00:05 AM</StartTime>
+    <EndTime>12/3/2018 3:54:08 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialX</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>980</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/3/2018 11:00:05 AM</StartTime>
+    <EndTime>12/3/2018 3:54:08 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1980</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/3/2018 3:54:08 PM</StartTime>
+    <EndTime>12/4/2018 10:48:11 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialX</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>960</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/3/2018 3:54:08 PM</StartTime>
+    <EndTime>12/3/2018 4:18:04 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1960</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/3/2018 4:18:04 PM</StartTime>
+    <EndTime>12/4/2018 10:48:11 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1930</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/3/2018 4:18:09 PM</StartTime>
+    <EndTime>12/4/2018 11:24:19 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodB</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>10</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/4/2018 10:48:11 AM</StartTime>
+    <EndTime>12/4/2018 3:42:13 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialX</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>940</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/4/2018 10:48:11 AM</StartTime>
+    <EndTime>12/4/2018 2:18:06 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1910</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/4/2018 11:24:19 AM</StartTime>
+    <EndTime>12/5/2018 8:24:21 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodB</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>20</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/4/2018 1:54:28 PM</StartTime>
+    <EndTime>12/13/2018 4:18:52 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodA</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>10</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/4/2018 2:18:06 PM</StartTime>
+    <EndTime>12/4/2018 3:42:13 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1880</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/4/2018 3:42:13 PM</StartTime>
+    <EndTime>12/5/2018 10:36:16 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialX</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>920</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/4/2018 3:42:13 PM</StartTime>
+    <EndTime>12/5/2018 10:36:16 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1860</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/5/2018 8:24:21 AM</StartTime>
+    <EndTime>12/5/2018 2:24:23 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodB</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>30</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/5/2018 9:18:30 AM</StartTime>
+    <EndTime>12/5/2018 3:30:27 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodC</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>10</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/5/2018 10:36:16 AM</StartTime>
+    <EndTime>12/5/2018 3:30:19 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialX</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>900</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/5/2018 10:36:16 AM</StartTime>
+    <EndTime>12/5/2018 11:18:09 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1840</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/5/2018 11:18:09 AM</StartTime>
+    <EndTime>12/5/2018 3:30:19 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1810</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/5/2018 2:24:23 PM</StartTime>
+    <EndTime>12/6/2018 10:24:25 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodB</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>40</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/5/2018 3:30:19 PM</StartTime>
+    <EndTime>12/10/2018 11:18:18 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialX</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>880</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/5/2018 3:30:19 PM</StartTime>
+    <EndTime>12/6/2018 9:18:11 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1790</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/5/2018 3:30:27 PM</StartTime>
+    <EndTime>12/6/2018 3:48:27 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodC</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>20</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/6/2018 9:18:11 AM</StartTime>
+    <EndTime>12/6/2018 10:24:22 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1760</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/6/2018 10:24:22 AM</StartTime>
+    <EndTime>12/6/2018 4:18:13 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1730</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/6/2018 10:24:25 AM</StartTime>
+    <EndTime>12/6/2018 11:30:29 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodB</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>50</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/6/2018 11:30:29 AM</StartTime>
+    <EndTime>12/7/2018 8:30:32 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodB</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>60</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/6/2018 3:48:27 PM</StartTime>
+    <EndTime>12/7/2018 1:54:34 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodC</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>30</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/6/2018 4:18:13 PM</StartTime>
+    <EndTime>12/7/2018 2:18:16 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1700</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/7/2018 8:30:32 AM</StartTime>
+    <EndTime>12/7/2018 11:48:28 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodB</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>70</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/7/2018 11:48:28 AM</StartTime>
+    <EndTime>12/29/2018 8:00:00 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodB</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>80</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/7/2018 1:54:34 PM</StartTime>
+    <EndTime>12/10/2018 8:30:33 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodC</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>40</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/7/2018 2:18:16 PM</StartTime>
+    <EndTime>12/7/2018 2:24:25 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1670</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/7/2018 2:24:25 PM</StartTime>
+    <EndTime>12/10/2018 11:18:18 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1640</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/10/2018 8:30:33 AM</StartTime>
+    <EndTime>12/10/2018 3:30:36 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodC</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>50</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/10/2018 11:18:18 AM</StartTime>
+    <EndTime>12/10/2018 11:24:27 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialX</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>860</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/10/2018 11:18:18 AM</StartTime>
+    <EndTime>12/10/2018 11:24:27 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1630</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/10/2018 11:24:27 AM</StartTime>
+    <EndTime>12/11/2018 3:42:20 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialX</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>840</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/10/2018 11:24:27 AM</StartTime>
+    <EndTime>12/11/2018 3:42:20 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1620</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/10/2018 3:30:36 PM</StartTime>
+    <EndTime>12/10/2018 3:36:36 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodC</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>60</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/10/2018 3:36:36 PM</StartTime>
+    <EndTime>12/11/2018 1:30:38 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodC</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>70</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/11/2018 1:30:38 PM</StartTime>
+    <EndTime>12/11/2018 1:36:39 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodC</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>80</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/11/2018 1:36:39 PM</StartTime>
+    <EndTime>12/29/2018 8:00:00 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodC</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>90</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/11/2018 3:42:20 PM</StartTime>
+    <EndTime>12/11/2018 3:48:30 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialX</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>820</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/11/2018 3:42:20 PM</StartTime>
+    <EndTime>12/11/2018 3:48:30 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1610</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/11/2018 3:48:30 PM</StartTime>
+    <EndTime>12/12/2018 11:06:22 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialX</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>800</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/11/2018 3:48:30 PM</StartTime>
+    <EndTime>12/12/2018 11:06:22 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1600</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/12/2018 11:06:22 AM</StartTime>
+    <EndTime>12/12/2018 11:12:33 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialX</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>780</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/12/2018 11:06:22 AM</StartTime>
+    <EndTime>12/12/2018 11:12:33 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1590</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/12/2018 11:12:33 AM</StartTime>
+    <EndTime>12/12/2018 4:30:25 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialX</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>760</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/12/2018 11:12:33 AM</StartTime>
+    <EndTime>12/12/2018 4:30:25 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1580</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/12/2018 4:30:25 PM</StartTime>
+    <EndTime>12/12/2018 4:36:36 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialX</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>740</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/12/2018 4:30:25 PM</StartTime>
+    <EndTime>12/12/2018 4:36:36 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1570</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/12/2018 4:36:36 PM</StartTime>
+    <EndTime>12/13/2018 11:54:27 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialX</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>720</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/12/2018 4:36:36 PM</StartTime>
+    <EndTime>12/13/2018 11:54:27 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1560</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/13/2018 11:54:27 AM</StartTime>
+    <EndTime>12/29/2018 8:00:00 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialX</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>700</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/13/2018 11:54:27 AM</StartTime>
+    <EndTime>12/29/2018 8:00:00 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1550</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/13/2018 4:18:52 PM</StartTime>
+    <EndTime>12/13/2018 4:24:57 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodA</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>20</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/13/2018 4:24:57 PM</StartTime>
+    <EndTime>12/14/2018 3:42:56 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodA</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>30</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/14/2018 3:42:56 PM</StartTime>
+    <EndTime>12/14/2018 3:48:59 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodA</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>40</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/14/2018 3:48:59 PM</StartTime>
+    <EndTime>12/17/2018 3:07:00 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodA</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>50</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/17/2018 3:07:00 PM</StartTime>
+    <EndTime>12/17/2018 3:13:00 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodA</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>60</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/17/2018 3:13:00 PM</StartTime>
+    <EndTime>12/18/2018 2:31:04 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodA</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>70</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/18/2018 2:31:04 PM</StartTime>
+    <EndTime>12/18/2018 2:37:02 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodA</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>80</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/18/2018 2:37:02 PM</StartTime>
+    <EndTime>12/19/2018 1:55:08 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodA</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>90</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/19/2018 1:55:08 PM</StartTime>
+    <EndTime>12/29/2018 8:00:00 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodA</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>100</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/29/2018 8:00:00 AM</StartTime>
+    <EndTime>12/29/2018 8:00:00 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodA</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>100</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/29/2018 8:00:00 AM</StartTime>
+    <EndTime>12/29/2018 8:00:00 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodB</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>80</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/29/2018 8:00:00 AM</StartTime>
+    <EndTime>12/29/2018 8:00:00 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodC</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>90</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/29/2018 8:00:00 AM</StartTime>
+    <EndTime>12/29/2018 8:00:00 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialX</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>700</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/29/2018 8:00:00 AM</StartTime>
+    <EndTime>12/29/2018 8:00:00 AM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1550</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/29/2018 8:00:00 AM</StartTime>
+    <EndTime>12/31/9999 11:59:59 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodA</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>100</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/29/2018 8:00:00 AM</StartTime>
+    <EndTime>12/31/9999 11:59:59 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodB</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>80</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/29/2018 8:00:00 AM</StartTime>
+    <EndTime>12/31/9999 11:59:59 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>FinishedGoodC</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>90</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/29/2018 8:00:00 AM</StartTime>
+    <EndTime>12/31/9999 11:59:59 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialX</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>700</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+  <SimioAPI.IStateObservationRecord>
+    <StartTime>12/29/2018 8:00:00 AM</StartTime>
+    <EndTime>12/31/9999 11:59:59 PM</EndTime>
+    <ObjectType>Model</ObjectType>
+    <ObjectName>Model</ObjectName>
+    <DataSource>MaterialY</DataSource>
+    <Category>UserSpecified</Category>
+    <DataItem>StateValue</DataItem>
+    <DisplayCategory>Materials</DisplayCategory>
+    <Value>1550</Value>
+    <Rate>0</Rate>
+    <Acceleration>0</Acceleration>
+    <StringValue />
+  </SimioAPI.IStateObservationRecord>
+</DocumentElement>

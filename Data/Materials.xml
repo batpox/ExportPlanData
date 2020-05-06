@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Materials>
+    <MaterialName>FinishedGoodA</MaterialName>
+    <MaterialClass>Finished Goods</MaterialClass>
+    <MaterialCost>0</MaterialCost>
+    <MaterialColor>Green</MaterialColor>
+    <GanttColor>LimeGreen</GanttColor>
+    <MaterialStateStatistic>FinishedGoodASS</MaterialStateStatistic>
+  </Materials>
+  <Materials>
+    <MaterialName>FinishedGoodB</MaterialName>
+    <MaterialClass>Finished Goods</MaterialClass>
+    <MaterialCost>0</MaterialCost>
+    <MaterialColor>Red</MaterialColor>
+    <GanttColor>Tomato</GanttColor>
+    <MaterialStateStatistic>FinishedGoodBSS</MaterialStateStatistic>
+  </Materials>
+  <Materials>
+    <MaterialName>FinishedGoodC</MaterialName>
+    <MaterialClass>Finished Goods</MaterialClass>
+    <MaterialCost>0</MaterialCost>
+    <MaterialColor>Blue</MaterialColor>
+    <GanttColor>DeepSkyBlue</GanttColor>
+    <MaterialStateStatistic>FinishedGoodCSS</MaterialStateStatistic>
+  </Materials>
+  <Materials>
+    <MaterialName>MaterialX</MaterialName>
+    <MaterialClass>Raw Materials</MaterialClass>
+    <MaterialCost>60</MaterialCost>
+    <MaterialColor>Other</MaterialColor>
+    <GanttColor>Orange</GanttColor>
+    <MaterialStateStatistic>MaterialXSS</MaterialStateStatistic>
+  </Materials>
+  <Materials>
+    <MaterialName>MaterialY</MaterialName>
+    <MaterialClass>Raw Materials</MaterialClass>
+    <MaterialCost>80</MaterialCost>
+    <MaterialColor>Other</MaterialColor>
+    <GanttColor>Purple</GanttColor>
+    <MaterialStateStatistic>MaterialYSS</MaterialStateStatistic>
+  </Materials>
+</DocumentElement>

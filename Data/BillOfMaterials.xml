@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <BillOfMaterials>
+    <RoutingKey>FinishedGoodA_10</RoutingKey>
+    <ComponentMaterial>MaterialX</ComponentMaterial>
+    <RequiredQuantity>2</RequiredQuantity>
+    <RequiredLotId />
+    <MaterialUse>Produce</MaterialUse>
+  </BillOfMaterials>
+  <BillOfMaterials>
+    <RoutingKey>FinishedGoodA_10</RoutingKey>
+    <ComponentMaterial>MaterialY</ComponentMaterial>
+    <RequiredQuantity>1</RequiredQuantity>
+    <RequiredLotId />
+    <MaterialUse>Produce</MaterialUse>
+  </BillOfMaterials>
+  <BillOfMaterials>
+    <RoutingKey>FinishedGoodA_40</RoutingKey>
+    <ComponentMaterial>FinishedGoodA</ComponentMaterial>
+    <RequiredQuantity>1</RequiredQuantity>
+    <RequiredLotId />
+    <MaterialUse>Produce</MaterialUse>
+  </BillOfMaterials>
+  <BillOfMaterials>
+    <RoutingKey>FinishedGoodB_10</RoutingKey>
+    <ComponentMaterial>MaterialX</ComponentMaterial>
+    <RequiredQuantity>2</RequiredQuantity>
+    <RequiredLotId />
+    <MaterialUse>Produce</MaterialUse>
+  </BillOfMaterials>
+  <BillOfMaterials>
+    <RoutingKey>FinishedGoodB_10</RoutingKey>
+    <ComponentMaterial>MaterialY</ComponentMaterial>
+    <RequiredQuantity>2</RequiredQuantity>
+    <RequiredLotId />
+    <MaterialUse>Consume</MaterialUse>
+  </BillOfMaterials>
+  <BillOfMaterials>
+    <RoutingKey>FinishedGoodB_30</RoutingKey>
+    <ComponentMaterial>FinishedGoodB</ComponentMaterial>
+    <RequiredQuantity>1</RequiredQuantity>
+    <RequiredLotId />
+    <MaterialUse>Produce</MaterialUse>
+  </BillOfMaterials>
+  <BillOfMaterials>
+    <RoutingKey>FinishedGoodC_10</RoutingKey>
+    <ComponentMaterial>MaterialY</ComponentMaterial>
+    <RequiredQuantity>3</RequiredQuantity>
+    <RequiredLotId />
+    <MaterialUse>Consume</MaterialUse>
+  </BillOfMaterials>
+  <BillOfMaterials>
+    <RoutingKey>FinishedGoodC_30</RoutingKey>
+    <ComponentMaterial>FinishedGoodC</ComponentMaterial>
+    <RequiredQuantity>1</RequiredQuantity>
+    <RequiredLotId />
+    <MaterialUse>Produce</MaterialUse>
+  </BillOfMaterials>
+  <BillOfMaterials>
+    <RoutingKey>FinishedGoodC_30</RoutingKey>
+    <ComponentMaterial>FinishedGoodC</ComponentMaterial>
+    <RequiredQuantity>1</RequiredQuantity>
+    <RequiredLotId />
+    <MaterialUse>Produce</MaterialUse>
+  </BillOfMaterials>
+  <BillOfMaterials>
+    <RoutingKey>FinishedGoodC_30</RoutingKey>
+    <ComponentMaterial>FinishedGoodC</ComponentMaterial>
+    <RequiredQuantity>1</RequiredQuantity>
+    <RequiredLotId />
+    <MaterialUse>Produce</MaterialUse>
+  </BillOfMaterials>
+</DocumentElement>

@@ -1,0 +1,99 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <TableExportConfig>
+    <TableName>BillOfMaterials</TableName>
+    <Enabled>True</Enabled>
+    <Action>TruncateAndRepopulate</Action>
+    <SqlServerTableName>BOM2</SqlServerTableName>
+    <PreSaveStoredProcedure />
+    <PostSaveStoredProcedure />
+  </TableExportConfig>
+  <TableExportConfig>
+    <TableName>LogExportConfig</TableName>
+    <Enabled>True</Enabled>
+    <Action>TruncateAndRepopulate</Action>
+    <SqlServerTableName />
+    <PreSaveStoredProcedure />
+    <PostSaveStoredProcedure />
+  </TableExportConfig>
+  <TableExportConfig>
+    <TableName>ManufacturingOrders</TableName>
+    <Enabled>True</Enabled>
+    <Action>TruncateAndRepopulate</Action>
+    <SqlServerTableName />
+    <PreSaveStoredProcedure />
+    <PostSaveStoredProcedure />
+  </TableExportConfig>
+  <TableExportConfig>
+    <TableName>ManufacturingOrdersOutput</TableName>
+    <Enabled>True</Enabled>
+    <Action>TruncateAndRepopulate</Action>
+    <SqlServerTableName />
+    <PreSaveStoredProcedure />
+    <PostSaveStoredProcedure />
+  </TableExportConfig>
+  <TableExportConfig>
+    <TableName>MaterialLots</TableName>
+    <Enabled>True</Enabled>
+    <Action>TruncateAndRepopulate</Action>
+    <SqlServerTableName />
+    <PreSaveStoredProcedure />
+    <PostSaveStoredProcedure />
+  </TableExportConfig>
+  <TableExportConfig>
+    <TableName>Materials</TableName>
+    <Enabled>True</Enabled>
+    <Action>TruncateAndRepopulate</Action>
+    <SqlServerTableName />
+    <PreSaveStoredProcedure />
+    <PostSaveStoredProcedure />
+  </TableExportConfig>
+  <TableExportConfig>
+    <TableName>Resources</TableName>
+    <Enabled>True</Enabled>
+    <Action>TruncateAndRepopulate</Action>
+    <SqlServerTableName />
+    <PreSaveStoredProcedure />
+    <PostSaveStoredProcedure />
+  </TableExportConfig>
+  <TableExportConfig>
+    <TableName>RoutingDestinations</TableName>
+    <Enabled>True</Enabled>
+    <Action>TruncateAndRepopulate</Action>
+    <SqlServerTableName />
+    <PreSaveStoredProcedure />
+    <PostSaveStoredProcedure />
+  </TableExportConfig>
+  <TableExportConfig>
+    <TableName>Routings</TableName>
+    <Enabled>True</Enabled>
+    <Action>TruncateAndRepopulate</Action>
+    <SqlServerTableName />
+    <PreSaveStoredProcedure />
+    <PostSaveStoredProcedure />
+  </TableExportConfig>
+  <TableExportConfig>
+    <TableName>TableExportConfig</TableName>
+    <Enabled>True</Enabled>
+    <Action>TruncateAndRepopulate</Action>
+    <SqlServerTableName />
+    <PreSaveStoredProcedure />
+    <PostSaveStoredProcedure />
+  </TableExportConfig>
+  <TableExportConfig>
+    <TableName>TableExportExcludeForUpdate</TableName>
+    <Enabled>True</Enabled>
+    <Action>TruncateAndRepopulate</Action>
+    <SqlServerTableName />
+    <PreSaveStoredProcedure />
+    <PostSaveStoredProcedure />
+  </TableExportConfig>
+  <TableExportConfig>
+    <TableName>WorkInProcess</TableName>
+    <Enabled>True</Enabled>
+    <Action>TruncateAndRepopulate</Action>
+    <SqlServerTableName />
+    <PreSaveStoredProcedure />
+    <PostSaveStoredProcedure />
+  </TableExportConfig>
+</DocumentElement>

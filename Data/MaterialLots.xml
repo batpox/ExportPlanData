@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <MaterialLots>
+    <MaterialName>MaterialX</MaterialName>
+    <LotId />
+    <Quantity>1000</Quantity>
+  </MaterialLots>
+  <MaterialLots>
+    <MaterialName>MaterialY</MaterialName>
+    <LotId />
+    <Quantity>2000</Quantity>
+  </MaterialLots>
+</DocumentElement>

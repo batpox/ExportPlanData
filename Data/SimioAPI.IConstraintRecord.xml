@@ -1,0 +1,734 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/3/2018 8:00:00 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.38</ConstrainedEntityId>
+    <ConstrainedEntityName>Order04</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=255, G=99, B=71]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/3/2018 8:00:00 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.39</ConstrainedEntityId>
+    <ConstrainedEntityName>Order05</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=0, G=191, B=255]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/10/2018 11:18:16 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.40</ConstrainedEntityId>
+    <ConstrainedEntityName>Order02</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=50, G=205, B=50]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/3/2018 4:18:02 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.41</ConstrainedEntityId>
+    <ConstrainedEntityName>Order06</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=0, G=191, B=255]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/4/2018 2:18:04 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.42</ConstrainedEntityId>
+    <ConstrainedEntityName>Order07</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=0, G=191, B=255]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/10/2018 11:24:25 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.43</ConstrainedEntityId>
+    <ConstrainedEntityName>Order08</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=50, G=205, B=50]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/11/2018 3:42:18 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.44</ConstrainedEntityId>
+    <ConstrainedEntityName>Order09</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=50, G=205, B=50]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/3/2018 11:00:02 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.45</ConstrainedEntityId>
+    <ConstrainedEntityName>Order10</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=255, G=99, B=71]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/3/2018 3:54:05 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.46</ConstrainedEntityId>
+    <ConstrainedEntityName>Order11</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=255, G=99, B=71]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/11/2018 3:48:27 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.47</ConstrainedEntityId>
+    <ConstrainedEntityName>Order12</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=50, G=205, B=50]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/5/2018 11:18:06 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.48</ConstrainedEntityId>
+    <ConstrainedEntityName>Order13</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=0, G=191, B=255]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/12/2018 11:06:20 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.49</ConstrainedEntityId>
+    <ConstrainedEntityName>Order14</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=50, G=205, B=50]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/6/2018 9:18:09 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.50</ConstrainedEntityId>
+    <ConstrainedEntityName>Order15</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=0, G=191, B=255]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/4/2018 10:48:08 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.51</ConstrainedEntityId>
+    <ConstrainedEntityName>Order16</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=255, G=99, B=71]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/6/2018 10:24:19 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.52</ConstrainedEntityId>
+    <ConstrainedEntityName>Order17</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=0, G=191, B=255]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/12/2018 11:12:30 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.53</ConstrainedEntityId>
+    <ConstrainedEntityName>Order18</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=50, G=205, B=50]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/12/2018 4:30:22 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.54</ConstrainedEntityId>
+    <ConstrainedEntityName>Order19</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=50, G=205, B=50]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/4/2018 3:42:11 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.55</ConstrainedEntityId>
+    <ConstrainedEntityName>Order20</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=255, G=99, B=71]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/5/2018 10:36:13 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.56</ConstrainedEntityId>
+    <ConstrainedEntityName>Order21</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=255, G=99, B=71]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/12/2018 4:36:33 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.57</ConstrainedEntityId>
+    <ConstrainedEntityName>Order22</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=50, G=205, B=50]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/6/2018 4:18:11 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.58</ConstrainedEntityId>
+    <ConstrainedEntityName>Order23</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=0, G=191, B=255]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/13/2018 11:54:25 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.59</ConstrainedEntityId>
+    <ConstrainedEntityName>Order24</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=50, G=205, B=50]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/7/2018 2:18:13 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.60</ConstrainedEntityId>
+    <ConstrainedEntityName>Order25</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=0, G=191, B=255]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/5/2018 3:30:16 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.61</ConstrainedEntityId>
+    <ConstrainedEntityName>Order26</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=255, G=99, B=71]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:03 AM</StartTime>
+    <EndTime>12/7/2018 2:24:22 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.62</ConstrainedEntityId>
+    <ConstrainedEntityName>Order49</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=0, G=191, B=255]</ConstrainedEntityColor>
+    <FacilityLocationName>Cut</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:13 AM</StartTime>
+    <EndTime>12/3/2018 8:00:00 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.36</ConstrainedEntityId>
+    <ConstrainedEntityName>Order01</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=50, G=205, B=50]</ConstrainedEntityColor>
+    <FacilityLocationName>Weld</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/1/2018 8:00:13 AM</StartTime>
+    <EndTime>12/3/2018 8:00:00 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.37</ConstrainedEntityId>
+    <ConstrainedEntityName>Order03</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=255, G=99, B=71]</ConstrainedEntityColor>
+    <FacilityLocationName>Weld</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/4/2018 10:18:26 AM</StartTime>
+    <EndTime>12/4/2018 11:24:19 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.45</ConstrainedEntityId>
+    <ConstrainedEntityName>Order10</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=255, G=99, B=71]</ConstrainedEntityColor>
+    <FacilityLocationName>Finish</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/4/2018 1:06:17 PM</StartTime>
+    <EndTime>12/4/2018 1:54:28 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.39</ConstrainedEntityId>
+    <ConstrainedEntityName>Order05</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=0, G=191, B=255]</ConstrainedEntityColor>
+    <FacilityLocationName>Finish</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/4/2018 3:12:29 PM</StartTime>
+    <EndTime>12/5/2018 8:24:21 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.46</ConstrainedEntityId>
+    <ConstrainedEntityName>Order11</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=255, G=99, B=71]</ConstrainedEntityColor>
+    <FacilityLocationName>Finish</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/5/2018 10:06:31 AM</StartTime>
+    <EndTime>12/5/2018 2:24:23 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.51</ConstrainedEntityId>
+    <ConstrainedEntityName>Order16</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=255, G=99, B=71]</ConstrainedEntityColor>
+    <FacilityLocationName>Finish</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/5/2018 3:00:34 PM</StartTime>
+    <EndTime>12/5/2018 3:30:27 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.55</ConstrainedEntityId>
+    <ConstrainedEntityName>Order20</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=255, G=99, B=71]</ConstrainedEntityColor>
+    <FacilityLocationName>Finish</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/6/2018 8:06:27 AM</StartTime>
+    <EndTime>12/6/2018 10:24:25 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.42</ConstrainedEntityId>
+    <ConstrainedEntityName>Order07</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=0, G=191, B=255]</ConstrainedEntityColor>
+    <FacilityLocationName>Finish</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/6/2018 9:54:37 AM</StartTime>
+    <EndTime>12/6/2018 11:30:29 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.56</ConstrainedEntityId>
+    <ConstrainedEntityName>Order21</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=255, G=99, B=71]</ConstrainedEntityColor>
+    <FacilityLocationName>Finish</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/6/2018 2:48:40 PM</StartTime>
+    <EndTime>12/6/2018 3:48:27 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.61</ConstrainedEntityId>
+    <ConstrainedEntityName>Order26</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=255, G=99, B=71]</ConstrainedEntityColor>
+    <FacilityLocationName>Finish</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/6/2018 3:06:29 PM</StartTime>
+    <EndTime>12/7/2018 8:30:32 AM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.48</ConstrainedEntityId>
+    <ConstrainedEntityName>Order13</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=0, G=191, B=255]</ConstrainedEntityColor>
+    <FacilityLocationName>Finish</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/12/2018 11:06:26 AM</StartTime>
+    <EndTime>12/12/2018 3:06:28 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.44</ConstrainedEntityId>
+    <ConstrainedEntityName>Order09</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=50, G=205, B=50]</ConstrainedEntityColor>
+    <FacilityLocationName>Weld</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/12/2018 11:12:39 AM</StartTime>
+    <EndTime>12/12/2018 3:12:38 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.47</ConstrainedEntityId>
+    <ConstrainedEntityName>Order12</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=50, G=205, B=50]</ConstrainedEntityColor>
+    <FacilityLocationName>Weld</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/12/2018 4:30:28 PM</StartTime>
+    <EndTime>12/13/2018 2:30:32 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.49</ConstrainedEntityId>
+    <ConstrainedEntityName>Order14</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=50, G=205, B=50]</ConstrainedEntityColor>
+    <FacilityLocationName>Weld</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/12/2018 4:36:41 PM</StartTime>
+    <EndTime>12/13/2018 2:36:40 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.53</ConstrainedEntityId>
+    <ConstrainedEntityName>Order18</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=50, G=205, B=50]</ConstrainedEntityColor>
+    <FacilityLocationName>Weld</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/13/2018 11:54:31 AM</StartTime>
+    <EndTime>12/14/2018 1:54:36 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.54</ConstrainedEntityId>
+    <ConstrainedEntityName>Order19</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=50, G=205, B=50]</ConstrainedEntityColor>
+    <FacilityLocationName>Weld</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/13/2018 1:00:44 PM</StartTime>
+    <EndTime>12/14/2018 2:00:42 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.57</ConstrainedEntityId>
+    <ConstrainedEntityName>Order22</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=50, G=205, B=50]</ConstrainedEntityColor>
+    <FacilityLocationName>Weld</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+  <SimioAPI.IConstraintRecord>
+    <StartTime>12/14/2018 8:18:33 AM</StartTime>
+    <EndTime>12/17/2018 1:18:40 PM</EndTime>
+    <ConstrainedEntityId>DefaultEntity.59</ConstrainedEntityId>
+    <ConstrainedEntityName>Order24</ConstrainedEntityName>
+    <TaskId>0</TaskId>
+    <ConstrainedEntityColor>Color [A=255, R=50, G=205, B=50]</ConstrainedEntityColor>
+    <FacilityLocationName>Weld</FacilityLocationName>
+    <StationName>[None]</StationName>
+    <ConstraintType>DestinationAvailability</ConstraintType>
+    <ConstraintTypeId>Destination Availability</ConstraintTypeId>
+    <ConstraintItemId>RoutingDestinations.Node</ConstraintItemId>
+    <ConstraintItem>RoutingDestinations.Node</ConstraintItem>
+    <ConstraintItemColor>Color [Turquoise]</ConstraintItemColor>
+    <ConstraintDescription>NodeList</ConstraintDescription>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.IConstraintRecord>
+</DocumentElement>

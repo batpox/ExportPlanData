@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <TableExportExcludeForUpdate>
+    <TableName>BillOfMaterials</TableName>
+    <ColumnName>MaterialUse</ColumnName>
+  </TableExportExcludeForUpdate>
+</DocumentElement>

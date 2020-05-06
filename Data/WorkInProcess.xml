@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <WorkInProcess>
+    <OrderId>Order01</OrderId>
+    <CurrentRouteNumber>20</CurrentRouteNumber>
+    <CurrentResource>Weld1</CurrentResource>
+    <FractionOfSetupCompleted>1</FractionOfSetupCompleted>
+    <CompletedQuantity>5</CompletedQuantity>
+    <AccruedCost>970</AccruedCost>
+  </WorkInProcess>
+  <WorkInProcess>
+    <OrderId>Order03</OrderId>
+    <CurrentRouteNumber>20</CurrentRouteNumber>
+    <CurrentResource>Weld2</CurrentResource>
+    <FractionOfSetupCompleted>1</FractionOfSetupCompleted>
+    <CompletedQuantity>3</CompletedQuantity>
+    <AccruedCost>1020</AccruedCost>
+  </WorkInProcess>
+  <WorkInProcess>
+    <OrderId>Order04</OrderId>
+    <CurrentRouteNumber>10</CurrentRouteNumber>
+    <CurrentResource>Cut1</CurrentResource>
+    <FractionOfSetupCompleted>1</FractionOfSetupCompleted>
+    <CompletedQuantity>2</CompletedQuantity>
+    <AccruedCost>1050</AccruedCost>
+  </WorkInProcess>
+  <WorkInProcess>
+    <OrderId>Order05</OrderId>
+    <CurrentRouteNumber>10</CurrentRouteNumber>
+    <CurrentResource>Cut2</CurrentResource>
+    <FractionOfSetupCompleted>0.5</FractionOfSetupCompleted>
+    <CompletedQuantity>0</CompletedQuantity>
+    <AccruedCost>1130</AccruedCost>
+  </WorkInProcess>
+</DocumentElement>

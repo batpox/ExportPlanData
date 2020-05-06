@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <SimioAPI.IResourceInfoRecord>
+    <ResourceId>Cut1</ResourceId>
+    <ResourceName>Cut1</ResourceName>
+    <DisplayCategory />
+  </SimioAPI.IResourceInfoRecord>
+  <SimioAPI.IResourceInfoRecord>
+    <ResourceId>Cut2</ResourceId>
+    <ResourceName>Cut2</ResourceName>
+    <DisplayCategory />
+  </SimioAPI.IResourceInfoRecord>
+  <SimioAPI.IResourceInfoRecord>
+    <ResourceId>Finish1</ResourceId>
+    <ResourceName>Finish1</ResourceName>
+    <DisplayCategory />
+  </SimioAPI.IResourceInfoRecord>
+  <SimioAPI.IResourceInfoRecord>
+    <ResourceId>Finish2</ResourceId>
+    <ResourceName>Finish2</ResourceName>
+    <DisplayCategory />
+  </SimioAPI.IResourceInfoRecord>
+  <SimioAPI.IResourceInfoRecord>
+    <ResourceId>Resource1</ResourceId>
+    <ResourceName>Resource1</ResourceName>
+    <DisplayCategory />
+  </SimioAPI.IResourceInfoRecord>
+  <SimioAPI.IResourceInfoRecord>
+    <ResourceId>Resource2</ResourceId>
+    <ResourceName>Resource2</ResourceName>
+    <DisplayCategory />
+  </SimioAPI.IResourceInfoRecord>
+  <SimioAPI.IResourceInfoRecord>
+    <ResourceId>Shape1</ResourceId>
+    <ResourceName>Shape1</ResourceName>
+    <DisplayCategory />
+  </SimioAPI.IResourceInfoRecord>
+  <SimioAPI.IResourceInfoRecord>
+    <ResourceId>Shape2</ResourceId>
+    <ResourceName>Shape2</ResourceName>
+    <DisplayCategory />
+  </SimioAPI.IResourceInfoRecord>
+  <SimioAPI.IResourceInfoRecord>
+    <ResourceId>Weld1</ResourceId>
+    <ResourceName>Weld1</ResourceName>
+    <DisplayCategory />
+  </SimioAPI.IResourceInfoRecord>
+  <SimioAPI.IResourceInfoRecord>
+    <ResourceId>Weld2</ResourceId>
+    <ResourceName>Weld2</ResourceName>
+    <DisplayCategory />
+  </SimioAPI.IResourceInfoRecord>
+</DocumentElement>

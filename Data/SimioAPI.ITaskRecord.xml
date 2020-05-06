@@ -1,0 +1,3474 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <SimioAPI.ITaskRecord>
+    <TaskId>2</TaskId>
+    <StartTime>12/3/2018 8:00:01 AM</StartTime>
+    <EndTime>12/3/2018 10:06:01 AM</EndTime>
+    <EntityId>DefaultEntity.37</EntityId>
+    <EntityName>Order03</EntityName>
+    <FacilityLocationId>Weld2</FacilityLocationId>
+    <FacilityLocationName>Weld2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>ProcessWIP</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>3</TaskId>
+    <StartTime>12/3/2018 8:00:02 AM</StartTime>
+    <EndTime>12/3/2018 9:30:02 AM</EndTime>
+    <EntityId>DefaultEntity.39</EntityId>
+    <EntityName>Order05</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>SetupWIP</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>5</TaskId>
+    <StartTime>12/3/2018 8:00:02 AM</StartTime>
+    <EndTime>12/3/2018 10:48:02 AM</EndTime>
+    <EntityId>DefaultEntity.38</EntityId>
+    <EntityName>Order04</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>ProcessWIP</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>7</TaskId>
+    <StartTime>12/3/2018 8:00:03 AM</StartTime>
+    <EndTime>12/3/2018 11:30:03 AM</EndTime>
+    <EntityId>DefaultEntity.36</EntityId>
+    <EntityName>Order01</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>ProcessWIP</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>8</TaskId>
+    <StartTime>12/3/2018 9:30:02 AM</StartTime>
+    <EndTime>12/3/2018 4:06:02 PM</EndTime>
+    <EntityId>DefaultEntity.39</EntityId>
+    <EntityName>Order05</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>ProcessWIP</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>9</TaskId>
+    <StartTime>12/3/2018 10:06:01 AM</StartTime>
+    <EndTime>12/3/2018 10:18:01 AM</EndTime>
+    <EntityId>DefaultEntity.37</EntityId>
+    <EntityName>Order03</EntityName>
+    <FacilityLocationId>Weld2</FacilityLocationId>
+    <FacilityLocationName>Weld2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>10</TaskId>
+    <StartTime>12/3/2018 10:18:09 AM</StartTime>
+    <EndTime>12/3/2018 10:30:09 AM</EndTime>
+    <EntityId>DefaultEntity.37</EntityId>
+    <EntityName>Order03</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>12</TaskId>
+    <StartTime>12/3/2018 10:30:09 AM</StartTime>
+    <EndTime>12/3/2018 4:06:09 PM</EndTime>
+    <EntityId>DefaultEntity.37</EntityId>
+    <EntityName>Order03</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>13</TaskId>
+    <StartTime>12/3/2018 10:48:02 AM</StartTime>
+    <EndTime>12/3/2018 11:00:02 AM</EndTime>
+    <EntityId>DefaultEntity.38</EntityId>
+    <EntityName>Order04</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>14</TaskId>
+    <StartTime>12/3/2018 11:00:05 AM</StartTime>
+    <EndTime>12/3/2018 11:12:05 AM</EndTime>
+    <EntityId>DefaultEntity.45</EntityId>
+    <EntityName>Order10</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>15</TaskId>
+    <StartTime>12/3/2018 11:00:13 AM</StartTime>
+    <EndTime>12/3/2018 11:12:13 AM</EndTime>
+    <EntityId>DefaultEntity.38</EntityId>
+    <EntityName>Order04</EntityName>
+    <FacilityLocationId>Weld2</FacilityLocationId>
+    <FacilityLocationName>Weld2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>17</TaskId>
+    <StartTime>12/3/2018 11:12:05 AM</StartTime>
+    <EndTime>12/3/2018 3:42:05 PM</EndTime>
+    <EntityId>DefaultEntity.45</EntityId>
+    <EntityName>Order10</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>19</TaskId>
+    <StartTime>12/3/2018 11:12:13 AM</StartTime>
+    <EndTime>12/3/2018 3:12:13 PM</EndTime>
+    <EntityId>DefaultEntity.38</EntityId>
+    <EntityName>Order04</EntityName>
+    <FacilityLocationId>Weld2</FacilityLocationId>
+    <FacilityLocationName>Weld2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>20</TaskId>
+    <StartTime>12/3/2018 11:30:03 AM</StartTime>
+    <EndTime>12/3/2018 11:42:03 AM</EndTime>
+    <EntityId>DefaultEntity.36</EntityId>
+    <EntityName>Order01</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>21</TaskId>
+    <StartTime>12/3/2018 11:42:17 AM</StartTime>
+    <EndTime>12/3/2018 11:54:17 AM</EndTime>
+    <EntityId>DefaultEntity.36</EntityId>
+    <EntityName>Order01</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>23</TaskId>
+    <StartTime>12/3/2018 11:54:17 AM</StartTime>
+    <EndTime>12/4/2018 8:18:17 AM</EndTime>
+    <EntityId>DefaultEntity.36</EntityId>
+    <EntityName>Order01</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>24</TaskId>
+    <StartTime>12/3/2018 3:12:13 PM</StartTime>
+    <EndTime>12/3/2018 3:24:13 PM</EndTime>
+    <EntityId>DefaultEntity.38</EntityId>
+    <EntityName>Order04</EntityName>
+    <FacilityLocationId>Weld2</FacilityLocationId>
+    <FacilityLocationName>Weld2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>25</TaskId>
+    <StartTime>12/3/2018 3:24:19 PM</StartTime>
+    <EndTime>12/3/2018 3:36:19 PM</EndTime>
+    <EntityId>DefaultEntity.38</EntityId>
+    <EntityName>Order04</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>27</TaskId>
+    <StartTime>12/3/2018 3:36:19 PM</StartTime>
+    <EndTime>12/4/2018 11:12:19 AM</EndTime>
+    <EntityId>DefaultEntity.38</EntityId>
+    <EntityName>Order04</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>28</TaskId>
+    <StartTime>12/3/2018 3:42:05 PM</StartTime>
+    <EndTime>12/3/2018 3:54:05 PM</EndTime>
+    <EntityId>DefaultEntity.45</EntityId>
+    <EntityName>Order10</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>29</TaskId>
+    <StartTime>12/3/2018 3:54:08 PM</StartTime>
+    <EndTime>12/3/2018 4:06:08 PM</EndTime>
+    <EntityId>DefaultEntity.46</EntityId>
+    <EntityName>Order11</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>30</TaskId>
+    <StartTime>12/3/2018 3:54:17 PM</StartTime>
+    <EndTime>12/3/2018 4:06:17 PM</EndTime>
+    <EntityId>DefaultEntity.45</EntityId>
+    <EntityName>Order10</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>31</TaskId>
+    <StartTime>12/3/2018 4:06:02 PM</StartTime>
+    <EndTime>12/3/2018 4:18:02 PM</EndTime>
+    <EntityId>DefaultEntity.39</EntityId>
+    <EntityName>Order05</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>33</TaskId>
+    <StartTime>12/3/2018 4:06:08 PM</StartTime>
+    <EndTime>12/4/2018 10:36:08 AM</EndTime>
+    <EntityId>DefaultEntity.46</EntityId>
+    <EntityName>Order11</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>34</TaskId>
+    <StartTime>12/3/2018 4:06:09 PM</StartTime>
+    <EndTime>12/3/2018 4:18:09 PM</EndTime>
+    <EntityId>DefaultEntity.37</EntityId>
+    <EntityName>Order03</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>36</TaskId>
+    <StartTime>12/3/2018 4:06:17 PM</StartTime>
+    <EndTime>12/4/2018 10:06:17 AM</EndTime>
+    <EntityId>DefaultEntity.45</EntityId>
+    <EntityName>Order10</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>37</TaskId>
+    <StartTime>12/3/2018 4:18:04 PM</StartTime>
+    <EndTime>12/3/2018 4:30:04 PM</EndTime>
+    <EntityId>DefaultEntity.41</EntityId>
+    <EntityName>Order06</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>38</TaskId>
+    <StartTime>12/3/2018 4:18:12 PM</StartTime>
+    <EndTime>12/3/2018 4:30:12 PM</EndTime>
+    <EntityId>DefaultEntity.39</EntityId>
+    <EntityName>Order05</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>40</TaskId>
+    <StartTime>12/3/2018 4:30:04 PM</StartTime>
+    <EndTime>12/4/2018 2:06:04 PM</EndTime>
+    <EntityId>DefaultEntity.41</EntityId>
+    <EntityName>Order06</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>42</TaskId>
+    <StartTime>12/3/2018 4:30:12 PM</StartTime>
+    <EndTime>12/4/2018 11:54:12 AM</EndTime>
+    <EntityId>DefaultEntity.39</EntityId>
+    <EntityName>Order05</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>43</TaskId>
+    <StartTime>12/4/2018 8:18:17 AM</StartTime>
+    <EndTime>12/4/2018 8:30:17 AM</EndTime>
+    <EntityId>DefaultEntity.36</EntityId>
+    <EntityName>Order01</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>44</TaskId>
+    <StartTime>12/4/2018 8:30:28 AM</StartTime>
+    <EndTime>12/4/2018 8:42:28 AM</EndTime>
+    <EntityId>DefaultEntity.36</EntityId>
+    <EntityName>Order01</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>46</TaskId>
+    <StartTime>12/4/2018 8:42:28 AM</StartTime>
+    <EndTime>12/4/2018 1:42:28 PM</EndTime>
+    <EntityId>DefaultEntity.36</EntityId>
+    <EntityName>Order01</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>47</TaskId>
+    <StartTime>12/4/2018 10:06:17 AM</StartTime>
+    <EndTime>12/4/2018 10:18:17 AM</EndTime>
+    <EntityId>DefaultEntity.45</EntityId>
+    <EntityName>Order10</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>48</TaskId>
+    <StartTime>12/4/2018 10:36:08 AM</StartTime>
+    <EndTime>12/4/2018 10:48:08 AM</EndTime>
+    <EntityId>DefaultEntity.46</EntityId>
+    <EntityName>Order11</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>49</TaskId>
+    <StartTime>12/4/2018 10:48:11 AM</StartTime>
+    <EndTime>12/4/2018 11:00:11 AM</EndTime>
+    <EntityId>DefaultEntity.51</EntityId>
+    <EntityName>Order16</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>50</TaskId>
+    <StartTime>12/4/2018 10:48:20 AM</StartTime>
+    <EndTime>12/4/2018 11:00:20 AM</EndTime>
+    <EntityId>DefaultEntity.46</EntityId>
+    <EntityName>Order11</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>52</TaskId>
+    <StartTime>12/4/2018 11:00:11 AM</StartTime>
+    <EndTime>12/4/2018 3:30:11 PM</EndTime>
+    <EntityId>DefaultEntity.51</EntityId>
+    <EntityName>Order16</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>54</TaskId>
+    <StartTime>12/4/2018 11:00:20 AM</StartTime>
+    <EndTime>12/4/2018 3:00:20 PM</EndTime>
+    <EntityId>DefaultEntity.46</EntityId>
+    <EntityName>Order11</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>55</TaskId>
+    <StartTime>12/4/2018 11:12:19 AM</StartTime>
+    <EndTime>12/4/2018 11:24:19 AM</EndTime>
+    <EntityId>DefaultEntity.38</EntityId>
+    <EntityName>Order04</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>56</TaskId>
+    <StartTime>12/4/2018 11:24:21 AM</StartTime>
+    <EndTime>12/4/2018 11:36:21 AM</EndTime>
+    <EntityId>DefaultEntity.45</EntityId>
+    <EntityName>Order10</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>58</TaskId>
+    <StartTime>12/4/2018 11:36:21 AM</StartTime>
+    <EndTime>12/5/2018 8:12:21 AM</EndTime>
+    <EntityId>DefaultEntity.45</EntityId>
+    <EntityName>Order10</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>59</TaskId>
+    <StartTime>12/4/2018 11:54:12 AM</StartTime>
+    <EndTime>12/4/2018 1:06:12 PM</EndTime>
+    <EntityId>DefaultEntity.39</EntityId>
+    <EntityName>Order05</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>60</TaskId>
+    <StartTime>12/4/2018 1:42:28 PM</StartTime>
+    <EndTime>12/4/2018 1:54:28 PM</EndTime>
+    <EntityId>DefaultEntity.36</EntityId>
+    <EntityName>Order01</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>61</TaskId>
+    <StartTime>12/4/2018 1:54:30 PM</StartTime>
+    <EndTime>12/4/2018 2:06:30 PM</EndTime>
+    <EntityId>DefaultEntity.39</EntityId>
+    <EntityName>Order05</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>62</TaskId>
+    <StartTime>12/4/2018 2:06:04 PM</StartTime>
+    <EndTime>12/4/2018 2:18:04 PM</EndTime>
+    <EntityId>DefaultEntity.41</EntityId>
+    <EntityName>Order06</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>64</TaskId>
+    <StartTime>12/4/2018 2:06:30 PM</StartTime>
+    <EndTime>12/5/2018 9:06:30 AM</EndTime>
+    <EntityId>DefaultEntity.39</EntityId>
+    <EntityName>Order05</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>65</TaskId>
+    <StartTime>12/4/2018 2:18:06 PM</StartTime>
+    <EndTime>12/4/2018 2:30:06 PM</EndTime>
+    <EntityId>DefaultEntity.42</EntityId>
+    <EntityName>Order07</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>66</TaskId>
+    <StartTime>12/4/2018 2:18:16 PM</StartTime>
+    <EndTime>12/4/2018 2:30:16 PM</EndTime>
+    <EntityId>DefaultEntity.41</EntityId>
+    <EntityName>Order06</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>68</TaskId>
+    <StartTime>12/4/2018 2:30:06 PM</StartTime>
+    <EndTime>12/5/2018 11:06:06 AM</EndTime>
+    <EntityId>DefaultEntity.42</EntityId>
+    <EntityName>Order07</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>70</TaskId>
+    <StartTime>12/4/2018 2:30:16 PM</StartTime>
+    <EndTime>12/5/2018 9:54:16 AM</EndTime>
+    <EntityId>DefaultEntity.41</EntityId>
+    <EntityName>Order06</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>71</TaskId>
+    <StartTime>12/4/2018 3:00:20 PM</StartTime>
+    <EndTime>12/4/2018 3:12:20 PM</EndTime>
+    <EntityId>DefaultEntity.46</EntityId>
+    <EntityName>Order11</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>72</TaskId>
+    <StartTime>12/4/2018 3:30:11 PM</StartTime>
+    <EndTime>12/4/2018 3:42:11 PM</EndTime>
+    <EntityId>DefaultEntity.51</EntityId>
+    <EntityName>Order16</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>73</TaskId>
+    <StartTime>12/4/2018 3:42:13 PM</StartTime>
+    <EndTime>12/4/2018 3:54:13 PM</EndTime>
+    <EntityId>DefaultEntity.55</EntityId>
+    <EntityName>Order20</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>74</TaskId>
+    <StartTime>12/4/2018 3:42:23 PM</StartTime>
+    <EndTime>12/4/2018 3:54:23 PM</EndTime>
+    <EntityId>DefaultEntity.51</EntityId>
+    <EntityName>Order16</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>76</TaskId>
+    <StartTime>12/4/2018 3:54:13 PM</StartTime>
+    <EndTime>12/5/2018 10:24:13 AM</EndTime>
+    <EntityId>DefaultEntity.55</EntityId>
+    <EntityName>Order20</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>78</TaskId>
+    <StartTime>12/4/2018 3:54:23 PM</StartTime>
+    <EndTime>12/5/2018 9:54:23 AM</EndTime>
+    <EntityId>DefaultEntity.51</EntityId>
+    <EntityName>Order16</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>79</TaskId>
+    <StartTime>12/5/2018 8:12:21 AM</StartTime>
+    <EndTime>12/5/2018 8:24:21 AM</EndTime>
+    <EntityId>DefaultEntity.45</EntityId>
+    <EntityName>Order10</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>80</TaskId>
+    <StartTime>12/5/2018 8:24:23 AM</StartTime>
+    <EndTime>12/5/2018 8:36:23 AM</EndTime>
+    <EntityId>DefaultEntity.46</EntityId>
+    <EntityName>Order11</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>82</TaskId>
+    <StartTime>12/5/2018 8:36:23 AM</StartTime>
+    <EndTime>12/5/2018 2:12:23 PM</EndTime>
+    <EntityId>DefaultEntity.46</EntityId>
+    <EntityName>Order11</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>83</TaskId>
+    <StartTime>12/5/2018 9:06:30 AM</StartTime>
+    <EndTime>12/5/2018 9:18:30 AM</EndTime>
+    <EntityId>DefaultEntity.39</EntityId>
+    <EntityName>Order05</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>84</TaskId>
+    <StartTime>12/5/2018 9:54:16 AM</StartTime>
+    <EndTime>12/5/2018 10:06:16 AM</EndTime>
+    <EntityId>DefaultEntity.41</EntityId>
+    <EntityName>Order06</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>85</TaskId>
+    <StartTime>12/5/2018 9:54:23 AM</StartTime>
+    <EndTime>12/5/2018 10:06:23 AM</EndTime>
+    <EntityId>DefaultEntity.51</EntityId>
+    <EntityName>Order16</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>86</TaskId>
+    <StartTime>12/5/2018 10:06:27 AM</StartTime>
+    <EndTime>12/5/2018 10:18:27 AM</EndTime>
+    <EntityId>DefaultEntity.41</EntityId>
+    <EntityName>Order06</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>88</TaskId>
+    <StartTime>12/5/2018 10:18:27 AM</StartTime>
+    <EndTime>12/5/2018 3:18:27 PM</EndTime>
+    <EntityId>DefaultEntity.41</EntityId>
+    <EntityName>Order06</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>89</TaskId>
+    <StartTime>12/5/2018 10:24:13 AM</StartTime>
+    <EndTime>12/5/2018 10:36:13 AM</EndTime>
+    <EntityId>DefaultEntity.55</EntityId>
+    <EntityName>Order20</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>90</TaskId>
+    <StartTime>12/5/2018 10:36:16 AM</StartTime>
+    <EndTime>12/5/2018 10:48:16 AM</EndTime>
+    <EntityId>DefaultEntity.56</EntityId>
+    <EntityName>Order21</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>91</TaskId>
+    <StartTime>12/5/2018 10:36:26 AM</StartTime>
+    <EndTime>12/5/2018 10:48:26 AM</EndTime>
+    <EntityId>DefaultEntity.55</EntityId>
+    <EntityName>Order20</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>93</TaskId>
+    <StartTime>12/5/2018 10:48:16 AM</StartTime>
+    <EndTime>12/5/2018 3:18:16 PM</EndTime>
+    <EntityId>DefaultEntity.56</EntityId>
+    <EntityName>Order21</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>95</TaskId>
+    <StartTime>12/5/2018 10:48:26 AM</StartTime>
+    <EndTime>12/5/2018 2:48:26 PM</EndTime>
+    <EntityId>DefaultEntity.55</EntityId>
+    <EntityName>Order20</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>96</TaskId>
+    <StartTime>12/5/2018 11:06:06 AM</StartTime>
+    <EndTime>12/5/2018 11:18:06 AM</EndTime>
+    <EntityId>DefaultEntity.42</EntityId>
+    <EntityName>Order07</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>97</TaskId>
+    <StartTime>12/5/2018 11:18:09 AM</StartTime>
+    <EndTime>12/5/2018 11:30:09 AM</EndTime>
+    <EntityId>DefaultEntity.48</EntityId>
+    <EntityName>Order13</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>98</TaskId>
+    <StartTime>12/5/2018 11:18:18 AM</StartTime>
+    <EndTime>12/5/2018 11:30:18 AM</EndTime>
+    <EntityId>DefaultEntity.42</EntityId>
+    <EntityName>Order07</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>100</TaskId>
+    <StartTime>12/5/2018 11:30:09 AM</StartTime>
+    <EndTime>12/6/2018 9:06:09 AM</EndTime>
+    <EntityId>DefaultEntity.48</EntityId>
+    <EntityName>Order13</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>102</TaskId>
+    <StartTime>12/5/2018 11:30:18 AM</StartTime>
+    <EndTime>12/5/2018 4:54:18 PM</EndTime>
+    <EntityId>DefaultEntity.42</EntityId>
+    <EntityName>Order07</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>103</TaskId>
+    <StartTime>12/5/2018 2:12:23 PM</StartTime>
+    <EndTime>12/5/2018 2:24:23 PM</EndTime>
+    <EntityId>DefaultEntity.46</EntityId>
+    <EntityName>Order11</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>104</TaskId>
+    <StartTime>12/5/2018 2:24:25 PM</StartTime>
+    <EndTime>12/5/2018 2:36:25 PM</EndTime>
+    <EntityId>DefaultEntity.51</EntityId>
+    <EntityName>Order16</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>106</TaskId>
+    <StartTime>12/5/2018 2:36:25 PM</StartTime>
+    <EndTime>12/6/2018 10:12:25 AM</EndTime>
+    <EntityId>DefaultEntity.51</EntityId>
+    <EntityName>Order16</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>107</TaskId>
+    <StartTime>12/5/2018 2:48:26 PM</StartTime>
+    <EndTime>12/5/2018 3:00:26 PM</EndTime>
+    <EntityId>DefaultEntity.55</EntityId>
+    <EntityName>Order20</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>108</TaskId>
+    <StartTime>12/5/2018 3:18:16 PM</StartTime>
+    <EndTime>12/5/2018 3:30:16 PM</EndTime>
+    <EntityId>DefaultEntity.56</EntityId>
+    <EntityName>Order21</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>109</TaskId>
+    <StartTime>12/5/2018 3:18:27 PM</StartTime>
+    <EndTime>12/5/2018 3:30:27 PM</EndTime>
+    <EntityId>DefaultEntity.41</EntityId>
+    <EntityName>Order06</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>110</TaskId>
+    <StartTime>12/5/2018 3:30:19 PM</StartTime>
+    <EndTime>12/5/2018 3:42:19 PM</EndTime>
+    <EntityId>DefaultEntity.61</EntityId>
+    <EntityName>Order26</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>111</TaskId>
+    <StartTime>12/5/2018 3:30:29 PM</StartTime>
+    <EndTime>12/5/2018 3:42:29 PM</EndTime>
+    <EntityId>DefaultEntity.56</EntityId>
+    <EntityName>Order21</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>112</TaskId>
+    <StartTime>12/5/2018 3:30:29 PM</StartTime>
+    <EndTime>12/5/2018 3:42:29 PM</EndTime>
+    <EntityId>DefaultEntity.55</EntityId>
+    <EntityName>Order20</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>114</TaskId>
+    <StartTime>12/5/2018 3:42:19 PM</StartTime>
+    <EndTime>12/6/2018 10:12:19 AM</EndTime>
+    <EntityId>DefaultEntity.61</EntityId>
+    <EntityName>Order26</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>116</TaskId>
+    <StartTime>12/5/2018 3:42:29 PM</StartTime>
+    <EndTime>12/6/2018 9:42:29 AM</EndTime>
+    <EntityId>DefaultEntity.56</EntityId>
+    <EntityName>Order21</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>118</TaskId>
+    <StartTime>12/5/2018 3:42:29 PM</StartTime>
+    <EndTime>12/6/2018 11:18:29 AM</EndTime>
+    <EntityId>DefaultEntity.55</EntityId>
+    <EntityName>Order20</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>119</TaskId>
+    <StartTime>12/5/2018 4:54:18 PM</StartTime>
+    <EndTime>12/6/2018 8:06:18 AM</EndTime>
+    <EntityId>DefaultEntity.42</EntityId>
+    <EntityName>Order07</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>120</TaskId>
+    <StartTime>12/6/2018 9:06:09 AM</StartTime>
+    <EndTime>12/6/2018 9:18:09 AM</EndTime>
+    <EntityId>DefaultEntity.48</EntityId>
+    <EntityName>Order13</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>121</TaskId>
+    <StartTime>12/6/2018 9:18:11 AM</StartTime>
+    <EndTime>12/6/2018 9:30:11 AM</EndTime>
+    <EntityId>DefaultEntity.50</EntityId>
+    <EntityName>Order15</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>122</TaskId>
+    <StartTime>12/6/2018 9:18:20 AM</StartTime>
+    <EndTime>12/6/2018 9:30:20 AM</EndTime>
+    <EntityId>DefaultEntity.48</EntityId>
+    <EntityName>Order13</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>124</TaskId>
+    <StartTime>12/6/2018 9:30:11 AM</StartTime>
+    <EndTime>12/6/2018 4:06:11 PM</EndTime>
+    <EntityId>DefaultEntity.50</EntityId>
+    <EntityName>Order15</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>126</TaskId>
+    <StartTime>12/6/2018 9:30:20 AM</StartTime>
+    <EndTime>12/6/2018 2:54:20 PM</EndTime>
+    <EntityId>DefaultEntity.48</EntityId>
+    <EntityName>Order13</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>127</TaskId>
+    <StartTime>12/6/2018 9:42:29 AM</StartTime>
+    <EndTime>12/6/2018 9:54:29 AM</EndTime>
+    <EntityId>DefaultEntity.56</EntityId>
+    <EntityName>Order21</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>128</TaskId>
+    <StartTime>12/6/2018 10:12:19 AM</StartTime>
+    <EndTime>12/6/2018 10:24:19 AM</EndTime>
+    <EntityId>DefaultEntity.61</EntityId>
+    <EntityName>Order26</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>129</TaskId>
+    <StartTime>12/6/2018 10:12:25 AM</StartTime>
+    <EndTime>12/6/2018 10:24:25 AM</EndTime>
+    <EntityId>DefaultEntity.51</EntityId>
+    <EntityName>Order16</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>130</TaskId>
+    <StartTime>12/6/2018 10:24:22 AM</StartTime>
+    <EndTime>12/6/2018 10:36:22 AM</EndTime>
+    <EntityId>DefaultEntity.52</EntityId>
+    <EntityName>Order17</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>131</TaskId>
+    <StartTime>12/6/2018 10:24:27 AM</StartTime>
+    <EndTime>12/6/2018 10:36:27 AM</EndTime>
+    <EntityId>DefaultEntity.42</EntityId>
+    <EntityName>Order07</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>132</TaskId>
+    <StartTime>12/6/2018 10:24:31 AM</StartTime>
+    <EndTime>12/6/2018 10:36:31 AM</EndTime>
+    <EntityId>DefaultEntity.61</EntityId>
+    <EntityName>Order26</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>133</TaskId>
+    <StartTime>12/6/2018 10:36:22 AM</StartTime>
+    <EndTime>12/6/2018 4:36:22 PM</EndTime>
+    <EntityId>DefaultEntity.52</EntityId>
+    <EntityName>Order17</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Setup</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>135</TaskId>
+    <StartTime>12/6/2018 10:36:27 AM</StartTime>
+    <EndTime>12/6/2018 3:36:27 PM</EndTime>
+    <EntityId>DefaultEntity.42</EntityId>
+    <EntityName>Order07</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>137</TaskId>
+    <StartTime>12/6/2018 10:36:31 AM</StartTime>
+    <EndTime>12/6/2018 2:36:31 PM</EndTime>
+    <EntityId>DefaultEntity.61</EntityId>
+    <EntityName>Order26</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>138</TaskId>
+    <StartTime>12/6/2018 11:18:29 AM</StartTime>
+    <EndTime>12/6/2018 11:30:29 AM</EndTime>
+    <EntityId>DefaultEntity.55</EntityId>
+    <EntityName>Order20</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>139</TaskId>
+    <StartTime>12/6/2018 11:30:32 AM</StartTime>
+    <EndTime>12/6/2018 11:42:32 AM</EndTime>
+    <EntityId>DefaultEntity.56</EntityId>
+    <EntityName>Order21</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>141</TaskId>
+    <StartTime>12/6/2018 11:42:32 AM</StartTime>
+    <EndTime>12/7/2018 8:18:32 AM</EndTime>
+    <EntityId>DefaultEntity.56</EntityId>
+    <EntityName>Order21</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>142</TaskId>
+    <StartTime>12/6/2018 2:36:31 PM</StartTime>
+    <EndTime>12/6/2018 2:48:31 PM</EndTime>
+    <EntityId>DefaultEntity.61</EntityId>
+    <EntityName>Order26</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>143</TaskId>
+    <StartTime>12/6/2018 2:54:20 PM</StartTime>
+    <EndTime>12/6/2018 3:06:20 PM</EndTime>
+    <EntityId>DefaultEntity.48</EntityId>
+    <EntityName>Order13</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>144</TaskId>
+    <StartTime>12/6/2018 3:36:27 PM</StartTime>
+    <EndTime>12/6/2018 3:48:27 PM</EndTime>
+    <EntityId>DefaultEntity.42</EntityId>
+    <EntityName>Order07</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>145</TaskId>
+    <StartTime>12/6/2018 3:48:28 PM</StartTime>
+    <EndTime>12/6/2018 4:00:28 PM</EndTime>
+    <EntityId>DefaultEntity.61</EntityId>
+    <EntityName>Order26</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>147</TaskId>
+    <StartTime>12/6/2018 4:00:28 PM</StartTime>
+    <EndTime>12/7/2018 11:36:28 AM</EndTime>
+    <EntityId>DefaultEntity.61</EntityId>
+    <EntityName>Order26</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>148</TaskId>
+    <StartTime>12/6/2018 4:06:11 PM</StartTime>
+    <EndTime>12/6/2018 4:18:11 PM</EndTime>
+    <EntityId>DefaultEntity.50</EntityId>
+    <EntityName>Order15</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>149</TaskId>
+    <StartTime>12/6/2018 4:18:13 PM</StartTime>
+    <EndTime>12/6/2018 4:30:13 PM</EndTime>
+    <EntityId>DefaultEntity.58</EntityId>
+    <EntityName>Order23</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>150</TaskId>
+    <StartTime>12/6/2018 4:18:23 PM</StartTime>
+    <EndTime>12/6/2018 4:30:23 PM</EndTime>
+    <EntityId>DefaultEntity.50</EntityId>
+    <EntityName>Order15</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>152</TaskId>
+    <StartTime>12/6/2018 4:30:13 PM</StartTime>
+    <EndTime>12/7/2018 2:06:13 PM</EndTime>
+    <EntityId>DefaultEntity.58</EntityId>
+    <EntityName>Order23</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>154</TaskId>
+    <StartTime>12/6/2018 4:30:23 PM</StartTime>
+    <EndTime>12/7/2018 11:54:23 AM</EndTime>
+    <EntityId>DefaultEntity.50</EntityId>
+    <EntityName>Order15</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>155</TaskId>
+    <StartTime>12/6/2018 4:36:22 PM</StartTime>
+    <EndTime>12/7/2018 2:12:22 PM</EndTime>
+    <EntityId>DefaultEntity.52</EntityId>
+    <EntityName>Order17</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>156</TaskId>
+    <StartTime>12/7/2018 8:18:32 AM</StartTime>
+    <EndTime>12/7/2018 8:30:32 AM</EndTime>
+    <EntityId>DefaultEntity.56</EntityId>
+    <EntityName>Order21</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>157</TaskId>
+    <StartTime>12/7/2018 8:30:34 AM</StartTime>
+    <EndTime>12/7/2018 8:42:34 AM</EndTime>
+    <EntityId>DefaultEntity.48</EntityId>
+    <EntityName>Order13</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>159</TaskId>
+    <StartTime>12/7/2018 8:42:34 AM</StartTime>
+    <EndTime>12/7/2018 1:42:34 PM</EndTime>
+    <EntityId>DefaultEntity.48</EntityId>
+    <EntityName>Order13</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>160</TaskId>
+    <StartTime>12/7/2018 11:36:28 AM</StartTime>
+    <EndTime>12/7/2018 11:48:28 AM</EndTime>
+    <EntityId>DefaultEntity.61</EntityId>
+    <EntityName>Order26</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>161</TaskId>
+    <StartTime>12/7/2018 11:54:23 AM</StartTime>
+    <EndTime>12/7/2018 1:06:23 PM</EndTime>
+    <EntityId>DefaultEntity.50</EntityId>
+    <EntityName>Order15</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>162</TaskId>
+    <StartTime>12/7/2018 1:06:33 PM</StartTime>
+    <EndTime>12/7/2018 1:18:33 PM</EndTime>
+    <EntityId>DefaultEntity.50</EntityId>
+    <EntityName>Order15</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>164</TaskId>
+    <StartTime>12/7/2018 1:18:33 PM</StartTime>
+    <EndTime>12/10/2018 8:18:33 AM</EndTime>
+    <EntityId>DefaultEntity.50</EntityId>
+    <EntityName>Order15</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>165</TaskId>
+    <StartTime>12/7/2018 1:42:34 PM</StartTime>
+    <EndTime>12/7/2018 1:54:34 PM</EndTime>
+    <EntityId>DefaultEntity.48</EntityId>
+    <EntityName>Order13</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>166</TaskId>
+    <StartTime>12/7/2018 2:06:13 PM</StartTime>
+    <EndTime>12/7/2018 2:18:13 PM</EndTime>
+    <EntityId>DefaultEntity.58</EntityId>
+    <EntityName>Order23</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>167</TaskId>
+    <StartTime>12/7/2018 2:12:22 PM</StartTime>
+    <EndTime>12/7/2018 2:24:22 PM</EndTime>
+    <EntityId>DefaultEntity.52</EntityId>
+    <EntityName>Order17</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>168</TaskId>
+    <StartTime>12/7/2018 2:18:16 PM</StartTime>
+    <EndTime>12/7/2018 2:30:16 PM</EndTime>
+    <EntityId>DefaultEntity.60</EntityId>
+    <EntityName>Order25</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>169</TaskId>
+    <StartTime>12/7/2018 2:18:25 PM</StartTime>
+    <EndTime>12/7/2018 2:30:25 PM</EndTime>
+    <EntityId>DefaultEntity.58</EntityId>
+    <EntityName>Order23</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>170</TaskId>
+    <StartTime>12/7/2018 2:24:25 PM</StartTime>
+    <EndTime>12/7/2018 2:36:25 PM</EndTime>
+    <EntityId>DefaultEntity.62</EntityId>
+    <EntityName>Order49</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>171</TaskId>
+    <StartTime>12/7/2018 2:24:30 PM</StartTime>
+    <EndTime>12/7/2018 2:36:30 PM</EndTime>
+    <EntityId>DefaultEntity.52</EntityId>
+    <EntityName>Order17</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>173</TaskId>
+    <StartTime>12/7/2018 2:30:16 PM</StartTime>
+    <EndTime>12/10/2018 11:06:16 AM</EndTime>
+    <EntityId>DefaultEntity.60</EntityId>
+    <EntityName>Order25</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>175</TaskId>
+    <StartTime>12/7/2018 2:30:25 PM</StartTime>
+    <EndTime>12/10/2018 9:54:25 AM</EndTime>
+    <EntityId>DefaultEntity.58</EntityId>
+    <EntityName>Order23</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>177</TaskId>
+    <StartTime>12/7/2018 2:36:25 PM</StartTime>
+    <EndTime>12/10/2018 11:12:25 AM</EndTime>
+    <EntityId>DefaultEntity.62</EntityId>
+    <EntityName>Order49</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>179</TaskId>
+    <StartTime>12/7/2018 2:36:30 PM</StartTime>
+    <EndTime>12/10/2018 10:00:30 AM</EndTime>
+    <EntityId>DefaultEntity.52</EntityId>
+    <EntityName>Order17</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>180</TaskId>
+    <StartTime>12/10/2018 8:18:33 AM</StartTime>
+    <EndTime>12/10/2018 8:30:33 AM</EndTime>
+    <EntityId>DefaultEntity.50</EntityId>
+    <EntityName>Order15</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>181</TaskId>
+    <StartTime>12/10/2018 9:54:25 AM</StartTime>
+    <EndTime>12/10/2018 10:06:25 AM</EndTime>
+    <EntityId>DefaultEntity.58</EntityId>
+    <EntityName>Order23</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>182</TaskId>
+    <StartTime>12/10/2018 10:00:30 AM</StartTime>
+    <EndTime>12/10/2018 10:12:30 AM</EndTime>
+    <EntityId>DefaultEntity.52</EntityId>
+    <EntityName>Order17</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>183</TaskId>
+    <StartTime>12/10/2018 10:06:36 AM</StartTime>
+    <EndTime>12/10/2018 10:18:36 AM</EndTime>
+    <EntityId>DefaultEntity.58</EntityId>
+    <EntityName>Order23</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>184</TaskId>
+    <StartTime>12/10/2018 10:12:36 AM</StartTime>
+    <EndTime>12/10/2018 10:24:36 AM</EndTime>
+    <EntityId>DefaultEntity.52</EntityId>
+    <EntityName>Order17</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>186</TaskId>
+    <StartTime>12/10/2018 10:18:36 AM</StartTime>
+    <EndTime>12/10/2018 3:18:36 PM</EndTime>
+    <EntityId>DefaultEntity.58</EntityId>
+    <EntityName>Order23</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>188</TaskId>
+    <StartTime>12/10/2018 10:24:36 AM</StartTime>
+    <EndTime>12/10/2018 3:24:36 PM</EndTime>
+    <EntityId>DefaultEntity.52</EntityId>
+    <EntityName>Order17</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>189</TaskId>
+    <StartTime>12/10/2018 11:06:16 AM</StartTime>
+    <EndTime>12/10/2018 11:18:16 AM</EndTime>
+    <EntityId>DefaultEntity.60</EntityId>
+    <EntityName>Order25</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>190</TaskId>
+    <StartTime>12/10/2018 11:12:25 AM</StartTime>
+    <EndTime>12/10/2018 11:24:25 AM</EndTime>
+    <EntityId>DefaultEntity.62</EntityId>
+    <EntityName>Order49</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>191</TaskId>
+    <StartTime>12/10/2018 11:18:18 AM</StartTime>
+    <EndTime>12/10/2018 11:30:18 AM</EndTime>
+    <EntityId>DefaultEntity.40</EntityId>
+    <EntityName>Order02</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>192</TaskId>
+    <StartTime>12/10/2018 11:18:27 AM</StartTime>
+    <EndTime>12/10/2018 11:30:27 AM</EndTime>
+    <EntityId>DefaultEntity.60</EntityId>
+    <EntityName>Order25</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>193</TaskId>
+    <StartTime>12/10/2018 11:24:27 AM</StartTime>
+    <EndTime>12/10/2018 11:36:27 AM</EndTime>
+    <EntityId>DefaultEntity.43</EntityId>
+    <EntityName>Order08</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>194</TaskId>
+    <StartTime>12/10/2018 11:24:32 AM</StartTime>
+    <EndTime>12/10/2018 11:36:32 AM</EndTime>
+    <EntityId>DefaultEntity.62</EntityId>
+    <EntityName>Order49</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>195</TaskId>
+    <StartTime>12/10/2018 11:30:18 AM</StartTime>
+    <EndTime>12/11/2018 10:30:18 AM</EndTime>
+    <EntityId>DefaultEntity.40</EntityId>
+    <EntityName>Order02</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Setup</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>197</TaskId>
+    <StartTime>12/10/2018 11:30:27 AM</StartTime>
+    <EndTime>12/10/2018 4:54:27 PM</EndTime>
+    <EntityId>DefaultEntity.60</EntityId>
+    <EntityName>Order25</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>198</TaskId>
+    <StartTime>12/10/2018 11:36:27 AM</StartTime>
+    <EndTime>12/11/2018 10:36:27 AM</EndTime>
+    <EntityId>DefaultEntity.43</EntityId>
+    <EntityName>Order08</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Setup</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>200</TaskId>
+    <StartTime>12/10/2018 11:36:32 AM</StartTime>
+    <EndTime>12/11/2018 8:00:32 AM</EndTime>
+    <EntityId>DefaultEntity.62</EntityId>
+    <EntityName>Order49</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>201</TaskId>
+    <StartTime>12/10/2018 3:18:36 PM</StartTime>
+    <EndTime>12/10/2018 3:30:36 PM</EndTime>
+    <EntityId>DefaultEntity.58</EntityId>
+    <EntityName>Order23</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>202</TaskId>
+    <StartTime>12/10/2018 3:24:36 PM</StartTime>
+    <EndTime>12/10/2018 3:36:36 PM</EndTime>
+    <EntityId>DefaultEntity.52</EntityId>
+    <EntityName>Order17</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>203</TaskId>
+    <StartTime>12/10/2018 4:54:27 PM</StartTime>
+    <EndTime>12/11/2018 8:06:27 AM</EndTime>
+    <EntityId>DefaultEntity.60</EntityId>
+    <EntityName>Order25</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>204</TaskId>
+    <StartTime>12/11/2018 8:00:32 AM</StartTime>
+    <EndTime>12/11/2018 8:12:32 AM</EndTime>
+    <EntityId>DefaultEntity.62</EntityId>
+    <EntityName>Order49</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>205</TaskId>
+    <StartTime>12/11/2018 8:06:38 AM</StartTime>
+    <EndTime>12/11/2018 8:18:38 AM</EndTime>
+    <EntityId>DefaultEntity.60</EntityId>
+    <EntityName>Order25</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>206</TaskId>
+    <StartTime>12/11/2018 8:12:39 AM</StartTime>
+    <EndTime>12/11/2018 8:24:39 AM</EndTime>
+    <EntityId>DefaultEntity.62</EntityId>
+    <EntityName>Order49</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>208</TaskId>
+    <StartTime>12/11/2018 8:18:38 AM</StartTime>
+    <EndTime>12/11/2018 1:18:38 PM</EndTime>
+    <EntityId>DefaultEntity.60</EntityId>
+    <EntityName>Order25</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>210</TaskId>
+    <StartTime>12/11/2018 8:24:39 AM</StartTime>
+    <EndTime>12/11/2018 1:24:39 PM</EndTime>
+    <EntityId>DefaultEntity.62</EntityId>
+    <EntityName>Order49</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>211</TaskId>
+    <StartTime>12/11/2018 10:30:18 AM</StartTime>
+    <EndTime>12/11/2018 3:30:18 PM</EndTime>
+    <EntityId>DefaultEntity.40</EntityId>
+    <EntityName>Order02</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>212</TaskId>
+    <StartTime>12/11/2018 10:36:27 AM</StartTime>
+    <EndTime>12/11/2018 3:36:27 PM</EndTime>
+    <EntityId>DefaultEntity.43</EntityId>
+    <EntityName>Order08</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>213</TaskId>
+    <StartTime>12/11/2018 1:18:38 PM</StartTime>
+    <EndTime>12/11/2018 1:30:38 PM</EndTime>
+    <EntityId>DefaultEntity.60</EntityId>
+    <EntityName>Order25</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>214</TaskId>
+    <StartTime>12/11/2018 1:24:39 PM</StartTime>
+    <EndTime>12/11/2018 1:36:39 PM</EndTime>
+    <EntityId>DefaultEntity.62</EntityId>
+    <EntityName>Order49</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>215</TaskId>
+    <StartTime>12/11/2018 3:30:18 PM</StartTime>
+    <EndTime>12/11/2018 3:42:18 PM</EndTime>
+    <EntityId>DefaultEntity.40</EntityId>
+    <EntityName>Order02</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>216</TaskId>
+    <StartTime>12/11/2018 3:36:27 PM</StartTime>
+    <EndTime>12/11/2018 3:48:27 PM</EndTime>
+    <EntityId>DefaultEntity.43</EntityId>
+    <EntityName>Order08</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>217</TaskId>
+    <StartTime>12/11/2018 3:42:20 PM</StartTime>
+    <EndTime>12/11/2018 3:54:20 PM</EndTime>
+    <EntityId>DefaultEntity.44</EntityId>
+    <EntityName>Order09</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>218</TaskId>
+    <StartTime>12/11/2018 3:42:28 PM</StartTime>
+    <EndTime>12/11/2018 3:54:28 PM</EndTime>
+    <EntityId>DefaultEntity.40</EntityId>
+    <EntityName>Order02</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>219</TaskId>
+    <StartTime>12/11/2018 3:48:30 PM</StartTime>
+    <EndTime>12/11/2018 4:00:30 PM</EndTime>
+    <EntityId>DefaultEntity.47</EntityId>
+    <EntityName>Order12</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>220</TaskId>
+    <StartTime>12/11/2018 3:48:38 PM</StartTime>
+    <EndTime>12/11/2018 4:00:38 PM</EndTime>
+    <EntityId>DefaultEntity.43</EntityId>
+    <EntityName>Order08</EntityName>
+    <FacilityLocationId>Weld2</FacilityLocationId>
+    <FacilityLocationName>Weld2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>222</TaskId>
+    <StartTime>12/11/2018 3:54:20 PM</StartTime>
+    <EndTime>12/12/2018 10:54:20 AM</EndTime>
+    <EntityId>DefaultEntity.44</EntityId>
+    <EntityName>Order09</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>224</TaskId>
+    <StartTime>12/11/2018 3:54:28 PM</StartTime>
+    <EndTime>12/12/2018 2:54:28 PM</EndTime>
+    <EntityId>DefaultEntity.40</EntityId>
+    <EntityName>Order02</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>226</TaskId>
+    <StartTime>12/11/2018 4:00:30 PM</StartTime>
+    <EndTime>12/12/2018 11:00:30 AM</EndTime>
+    <EntityId>DefaultEntity.47</EntityId>
+    <EntityName>Order12</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>228</TaskId>
+    <StartTime>12/11/2018 4:00:38 PM</StartTime>
+    <EndTime>12/12/2018 3:00:38 PM</EndTime>
+    <EntityId>DefaultEntity.43</EntityId>
+    <EntityName>Order08</EntityName>
+    <FacilityLocationId>Weld2</FacilityLocationId>
+    <FacilityLocationName>Weld2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>229</TaskId>
+    <StartTime>12/12/2018 10:54:20 AM</StartTime>
+    <EndTime>12/12/2018 11:06:20 AM</EndTime>
+    <EntityId>DefaultEntity.44</EntityId>
+    <EntityName>Order09</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>230</TaskId>
+    <StartTime>12/12/2018 11:00:30 AM</StartTime>
+    <EndTime>12/12/2018 11:12:30 AM</EndTime>
+    <EntityId>DefaultEntity.47</EntityId>
+    <EntityName>Order12</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>231</TaskId>
+    <StartTime>12/12/2018 11:06:22 AM</StartTime>
+    <EndTime>12/12/2018 11:18:22 AM</EndTime>
+    <EntityId>DefaultEntity.49</EntityId>
+    <EntityName>Order14</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>232</TaskId>
+    <StartTime>12/12/2018 11:12:33 AM</StartTime>
+    <EndTime>12/12/2018 11:24:33 AM</EndTime>
+    <EntityId>DefaultEntity.53</EntityId>
+    <EntityName>Order18</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>234</TaskId>
+    <StartTime>12/12/2018 11:18:22 AM</StartTime>
+    <EndTime>12/12/2018 4:18:22 PM</EndTime>
+    <EntityId>DefaultEntity.49</EntityId>
+    <EntityName>Order14</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>236</TaskId>
+    <StartTime>12/12/2018 11:24:33 AM</StartTime>
+    <EndTime>12/12/2018 4:24:33 PM</EndTime>
+    <EntityId>DefaultEntity.53</EntityId>
+    <EntityName>Order18</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>237</TaskId>
+    <StartTime>12/12/2018 2:54:28 PM</StartTime>
+    <EndTime>12/12/2018 3:06:28 PM</EndTime>
+    <EntityId>DefaultEntity.40</EntityId>
+    <EntityName>Order02</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>238</TaskId>
+    <StartTime>12/12/2018 3:00:38 PM</StartTime>
+    <EndTime>12/12/2018 3:12:38 PM</EndTime>
+    <EntityId>DefaultEntity.43</EntityId>
+    <EntityName>Order08</EntityName>
+    <FacilityLocationId>Weld2</FacilityLocationId>
+    <FacilityLocationName>Weld2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>239</TaskId>
+    <StartTime>12/12/2018 3:06:32 PM</StartTime>
+    <EndTime>12/12/2018 3:18:32 PM</EndTime>
+    <EntityId>DefaultEntity.44</EntityId>
+    <EntityName>Order09</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>240</TaskId>
+    <StartTime>12/12/2018 3:06:41 PM</StartTime>
+    <EndTime>12/12/2018 3:18:41 PM</EndTime>
+    <EntityId>DefaultEntity.40</EntityId>
+    <EntityName>Order02</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>241</TaskId>
+    <StartTime>12/12/2018 3:12:40 PM</StartTime>
+    <EndTime>12/12/2018 3:24:40 PM</EndTime>
+    <EntityId>DefaultEntity.47</EntityId>
+    <EntityName>Order12</EntityName>
+    <FacilityLocationId>Weld2</FacilityLocationId>
+    <FacilityLocationName>Weld2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>242</TaskId>
+    <StartTime>12/12/2018 3:12:50 PM</StartTime>
+    <EndTime>12/12/2018 3:24:50 PM</EndTime>
+    <EntityId>DefaultEntity.43</EntityId>
+    <EntityName>Order08</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>244</TaskId>
+    <StartTime>12/12/2018 3:18:32 PM</StartTime>
+    <EndTime>12/13/2018 2:18:32 PM</EndTime>
+    <EntityId>DefaultEntity.44</EntityId>
+    <EntityName>Order09</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>246</TaskId>
+    <StartTime>12/12/2018 3:18:41 PM</StartTime>
+    <EndTime>12/13/2018 10:42:41 AM</EndTime>
+    <EntityId>DefaultEntity.40</EntityId>
+    <EntityName>Order02</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>248</TaskId>
+    <StartTime>12/12/2018 3:24:40 PM</StartTime>
+    <EndTime>12/13/2018 2:24:40 PM</EndTime>
+    <EntityId>DefaultEntity.47</EntityId>
+    <EntityName>Order12</EntityName>
+    <FacilityLocationId>Weld2</FacilityLocationId>
+    <FacilityLocationName>Weld2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>250</TaskId>
+    <StartTime>12/12/2018 3:24:50 PM</StartTime>
+    <EndTime>12/13/2018 10:48:50 AM</EndTime>
+    <EntityId>DefaultEntity.43</EntityId>
+    <EntityName>Order08</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>251</TaskId>
+    <StartTime>12/12/2018 4:18:22 PM</StartTime>
+    <EndTime>12/12/2018 4:30:22 PM</EndTime>
+    <EntityId>DefaultEntity.49</EntityId>
+    <EntityName>Order14</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>252</TaskId>
+    <StartTime>12/12/2018 4:24:33 PM</StartTime>
+    <EndTime>12/12/2018 4:36:33 PM</EndTime>
+    <EntityId>DefaultEntity.53</EntityId>
+    <EntityName>Order18</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>253</TaskId>
+    <StartTime>12/12/2018 4:30:25 PM</StartTime>
+    <EndTime>12/12/2018 4:42:25 PM</EndTime>
+    <EntityId>DefaultEntity.54</EntityId>
+    <EntityName>Order19</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>254</TaskId>
+    <StartTime>12/12/2018 4:36:36 PM</StartTime>
+    <EndTime>12/12/2018 4:48:36 PM</EndTime>
+    <EntityId>DefaultEntity.57</EntityId>
+    <EntityName>Order22</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>256</TaskId>
+    <StartTime>12/12/2018 4:42:25 PM</StartTime>
+    <EndTime>12/13/2018 11:42:25 AM</EndTime>
+    <EntityId>DefaultEntity.54</EntityId>
+    <EntityName>Order19</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>258</TaskId>
+    <StartTime>12/12/2018 4:48:36 PM</StartTime>
+    <EndTime>12/13/2018 11:48:36 AM</EndTime>
+    <EntityId>DefaultEntity.57</EntityId>
+    <EntityName>Order22</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>259</TaskId>
+    <StartTime>12/13/2018 10:42:41 AM</StartTime>
+    <EndTime>12/13/2018 10:54:41 AM</EndTime>
+    <EntityId>DefaultEntity.40</EntityId>
+    <EntityName>Order02</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>260</TaskId>
+    <StartTime>12/13/2018 10:48:50 AM</StartTime>
+    <EndTime>12/13/2018 11:00:50 AM</EndTime>
+    <EntityId>DefaultEntity.43</EntityId>
+    <EntityName>Order08</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>261</TaskId>
+    <StartTime>12/13/2018 10:54:52 AM</StartTime>
+    <EndTime>12/13/2018 11:06:52 AM</EndTime>
+    <EntityId>DefaultEntity.40</EntityId>
+    <EntityName>Order02</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>262</TaskId>
+    <StartTime>12/13/2018 11:00:57 AM</StartTime>
+    <EndTime>12/13/2018 11:12:57 AM</EndTime>
+    <EntityId>DefaultEntity.43</EntityId>
+    <EntityName>Order08</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>264</TaskId>
+    <StartTime>12/13/2018 11:06:52 AM</StartTime>
+    <EndTime>12/13/2018 4:06:52 PM</EndTime>
+    <EntityId>DefaultEntity.40</EntityId>
+    <EntityName>Order02</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>266</TaskId>
+    <StartTime>12/13/2018 11:12:57 AM</StartTime>
+    <EndTime>12/13/2018 4:12:57 PM</EndTime>
+    <EntityId>DefaultEntity.43</EntityId>
+    <EntityName>Order08</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>267</TaskId>
+    <StartTime>12/13/2018 11:42:25 AM</StartTime>
+    <EndTime>12/13/2018 11:54:25 AM</EndTime>
+    <EntityId>DefaultEntity.54</EntityId>
+    <EntityName>Order19</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>268</TaskId>
+    <StartTime>12/13/2018 11:48:36 AM</StartTime>
+    <EndTime>12/13/2018 1:00:36 PM</EndTime>
+    <EntityId>DefaultEntity.57</EntityId>
+    <EntityName>Order22</EntityName>
+    <FacilityLocationId>Cut1</FacilityLocationId>
+    <FacilityLocationName>Cut1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>269</TaskId>
+    <StartTime>12/13/2018 11:54:27 AM</StartTime>
+    <EndTime>12/13/2018 1:06:27 PM</EndTime>
+    <EntityId>DefaultEntity.59</EntityId>
+    <EntityName>Order24</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>271</TaskId>
+    <StartTime>12/13/2018 1:06:27 PM</StartTime>
+    <EndTime>12/14/2018 8:06:27 AM</EndTime>
+    <EntityId>DefaultEntity.59</EntityId>
+    <EntityName>Order24</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>272</TaskId>
+    <StartTime>12/13/2018 2:18:32 PM</StartTime>
+    <EndTime>12/13/2018 2:30:32 PM</EndTime>
+    <EntityId>DefaultEntity.44</EntityId>
+    <EntityName>Order09</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>273</TaskId>
+    <StartTime>12/13/2018 2:24:40 PM</StartTime>
+    <EndTime>12/13/2018 2:36:40 PM</EndTime>
+    <EntityId>DefaultEntity.47</EntityId>
+    <EntityName>Order12</EntityName>
+    <FacilityLocationId>Weld2</FacilityLocationId>
+    <FacilityLocationName>Weld2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>274</TaskId>
+    <StartTime>12/13/2018 2:30:36 PM</StartTime>
+    <EndTime>12/13/2018 2:42:36 PM</EndTime>
+    <EntityId>DefaultEntity.49</EntityId>
+    <EntityName>Order14</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>275</TaskId>
+    <StartTime>12/13/2018 2:30:45 PM</StartTime>
+    <EndTime>12/13/2018 2:42:45 PM</EndTime>
+    <EntityId>DefaultEntity.44</EntityId>
+    <EntityName>Order09</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>276</TaskId>
+    <StartTime>12/13/2018 2:36:42 PM</StartTime>
+    <EndTime>12/13/2018 2:48:42 PM</EndTime>
+    <EntityId>DefaultEntity.53</EntityId>
+    <EntityName>Order18</EntityName>
+    <FacilityLocationId>Weld2</FacilityLocationId>
+    <FacilityLocationName>Weld2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>277</TaskId>
+    <StartTime>12/13/2018 2:36:52 PM</StartTime>
+    <EndTime>12/13/2018 2:48:52 PM</EndTime>
+    <EntityId>DefaultEntity.47</EntityId>
+    <EntityName>Order12</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>279</TaskId>
+    <StartTime>12/13/2018 2:42:36 PM</StartTime>
+    <EndTime>12/14/2018 1:42:36 PM</EndTime>
+    <EntityId>DefaultEntity.49</EntityId>
+    <EntityName>Order14</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>281</TaskId>
+    <StartTime>12/13/2018 2:42:45 PM</StartTime>
+    <EndTime>12/14/2018 10:06:45 AM</EndTime>
+    <EntityId>DefaultEntity.44</EntityId>
+    <EntityName>Order09</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>283</TaskId>
+    <StartTime>12/13/2018 2:48:42 PM</StartTime>
+    <EndTime>12/14/2018 1:48:42 PM</EndTime>
+    <EntityId>DefaultEntity.53</EntityId>
+    <EntityName>Order18</EntityName>
+    <FacilityLocationId>Weld2</FacilityLocationId>
+    <FacilityLocationName>Weld2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>285</TaskId>
+    <StartTime>12/13/2018 2:48:52 PM</StartTime>
+    <EndTime>12/14/2018 10:12:52 AM</EndTime>
+    <EntityId>DefaultEntity.47</EntityId>
+    <EntityName>Order12</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>286</TaskId>
+    <StartTime>12/13/2018 4:06:52 PM</StartTime>
+    <EndTime>12/13/2018 4:18:52 PM</EndTime>
+    <EntityId>DefaultEntity.40</EntityId>
+    <EntityName>Order02</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>287</TaskId>
+    <StartTime>12/13/2018 4:12:57 PM</StartTime>
+    <EndTime>12/13/2018 4:24:57 PM</EndTime>
+    <EntityId>DefaultEntity.43</EntityId>
+    <EntityName>Order08</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>288</TaskId>
+    <StartTime>12/14/2018 8:06:27 AM</StartTime>
+    <EndTime>12/14/2018 8:18:27 AM</EndTime>
+    <EntityId>DefaultEntity.59</EntityId>
+    <EntityName>Order24</EntityName>
+    <FacilityLocationId>Cut2</FacilityLocationId>
+    <FacilityLocationName>Cut2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>289</TaskId>
+    <StartTime>12/14/2018 10:06:45 AM</StartTime>
+    <EndTime>12/14/2018 10:18:45 AM</EndTime>
+    <EntityId>DefaultEntity.44</EntityId>
+    <EntityName>Order09</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>290</TaskId>
+    <StartTime>12/14/2018 10:12:52 AM</StartTime>
+    <EndTime>12/14/2018 10:24:52 AM</EndTime>
+    <EntityId>DefaultEntity.47</EntityId>
+    <EntityName>Order12</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>291</TaskId>
+    <StartTime>12/14/2018 10:18:56 AM</StartTime>
+    <EndTime>12/14/2018 10:30:56 AM</EndTime>
+    <EntityId>DefaultEntity.44</EntityId>
+    <EntityName>Order09</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>292</TaskId>
+    <StartTime>12/14/2018 10:24:59 AM</StartTime>
+    <EndTime>12/14/2018 10:36:59 AM</EndTime>
+    <EntityId>DefaultEntity.47</EntityId>
+    <EntityName>Order12</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>294</TaskId>
+    <StartTime>12/14/2018 10:30:56 AM</StartTime>
+    <EndTime>12/14/2018 3:30:56 PM</EndTime>
+    <EntityId>DefaultEntity.44</EntityId>
+    <EntityName>Order09</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>296</TaskId>
+    <StartTime>12/14/2018 10:36:59 AM</StartTime>
+    <EndTime>12/14/2018 3:36:59 PM</EndTime>
+    <EntityId>DefaultEntity.47</EntityId>
+    <EntityName>Order12</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>297</TaskId>
+    <StartTime>12/14/2018 1:42:36 PM</StartTime>
+    <EndTime>12/14/2018 1:54:36 PM</EndTime>
+    <EntityId>DefaultEntity.49</EntityId>
+    <EntityName>Order14</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>298</TaskId>
+    <StartTime>12/14/2018 1:48:42 PM</StartTime>
+    <EndTime>12/14/2018 2:00:42 PM</EndTime>
+    <EntityId>DefaultEntity.53</EntityId>
+    <EntityName>Order18</EntityName>
+    <FacilityLocationId>Weld2</FacilityLocationId>
+    <FacilityLocationName>Weld2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>299</TaskId>
+    <StartTime>12/14/2018 1:54:40 PM</StartTime>
+    <EndTime>12/14/2018 2:06:40 PM</EndTime>
+    <EntityId>DefaultEntity.54</EntityId>
+    <EntityName>Order19</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>300</TaskId>
+    <StartTime>12/14/2018 1:54:49 PM</StartTime>
+    <EndTime>12/14/2018 2:06:49 PM</EndTime>
+    <EntityId>DefaultEntity.49</EntityId>
+    <EntityName>Order14</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>301</TaskId>
+    <StartTime>12/14/2018 2:00:43 PM</StartTime>
+    <EndTime>12/14/2018 2:12:43 PM</EndTime>
+    <EntityId>DefaultEntity.57</EntityId>
+    <EntityName>Order22</EntityName>
+    <FacilityLocationId>Weld2</FacilityLocationId>
+    <FacilityLocationName>Weld2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>302</TaskId>
+    <StartTime>12/14/2018 2:00:54 PM</StartTime>
+    <EndTime>12/14/2018 2:12:54 PM</EndTime>
+    <EntityId>DefaultEntity.53</EntityId>
+    <EntityName>Order18</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>304</TaskId>
+    <StartTime>12/14/2018 2:06:40 PM</StartTime>
+    <EndTime>12/17/2018 1:06:40 PM</EndTime>
+    <EntityId>DefaultEntity.54</EntityId>
+    <EntityName>Order19</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>306</TaskId>
+    <StartTime>12/14/2018 2:06:49 PM</StartTime>
+    <EndTime>12/17/2018 9:30:49 AM</EndTime>
+    <EntityId>DefaultEntity.49</EntityId>
+    <EntityName>Order14</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>308</TaskId>
+    <StartTime>12/14/2018 2:12:43 PM</StartTime>
+    <EndTime>12/17/2018 1:12:43 PM</EndTime>
+    <EntityId>DefaultEntity.57</EntityId>
+    <EntityName>Order22</EntityName>
+    <FacilityLocationId>Weld2</FacilityLocationId>
+    <FacilityLocationName>Weld2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>310</TaskId>
+    <StartTime>12/14/2018 2:12:54 PM</StartTime>
+    <EndTime>12/17/2018 9:36:54 AM</EndTime>
+    <EntityId>DefaultEntity.53</EntityId>
+    <EntityName>Order18</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>311</TaskId>
+    <StartTime>12/14/2018 3:30:56 PM</StartTime>
+    <EndTime>12/14/2018 3:42:56 PM</EndTime>
+    <EntityId>DefaultEntity.44</EntityId>
+    <EntityName>Order09</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>312</TaskId>
+    <StartTime>12/14/2018 3:36:59 PM</StartTime>
+    <EndTime>12/14/2018 3:48:59 PM</EndTime>
+    <EntityId>DefaultEntity.47</EntityId>
+    <EntityName>Order12</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>313</TaskId>
+    <StartTime>12/17/2018 9:30:49 AM</StartTime>
+    <EndTime>12/17/2018 9:42:49 AM</EndTime>
+    <EntityId>DefaultEntity.49</EntityId>
+    <EntityName>Order14</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>314</TaskId>
+    <StartTime>12/17/2018 9:36:54 AM</StartTime>
+    <EndTime>12/17/2018 9:48:54 AM</EndTime>
+    <EntityId>DefaultEntity.53</EntityId>
+    <EntityName>Order18</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>315</TaskId>
+    <StartTime>12/17/2018 9:43:00 AM</StartTime>
+    <EndTime>12/17/2018 9:55:00 AM</EndTime>
+    <EntityId>DefaultEntity.49</EntityId>
+    <EntityName>Order14</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>316</TaskId>
+    <StartTime>12/17/2018 9:49:00 AM</StartTime>
+    <EndTime>12/17/2018 10:01:00 AM</EndTime>
+    <EntityId>DefaultEntity.53</EntityId>
+    <EntityName>Order18</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>318</TaskId>
+    <StartTime>12/17/2018 9:55:00 AM</StartTime>
+    <EndTime>12/17/2018 2:55:00 PM</EndTime>
+    <EntityId>DefaultEntity.49</EntityId>
+    <EntityName>Order14</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>320</TaskId>
+    <StartTime>12/17/2018 10:01:00 AM</StartTime>
+    <EndTime>12/17/2018 3:01:00 PM</EndTime>
+    <EntityId>DefaultEntity.53</EntityId>
+    <EntityName>Order18</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>321</TaskId>
+    <StartTime>12/17/2018 1:06:40 PM</StartTime>
+    <EndTime>12/17/2018 1:18:40 PM</EndTime>
+    <EntityId>DefaultEntity.54</EntityId>
+    <EntityName>Order19</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>322</TaskId>
+    <StartTime>12/17/2018 1:12:43 PM</StartTime>
+    <EndTime>12/17/2018 1:24:43 PM</EndTime>
+    <EntityId>DefaultEntity.57</EntityId>
+    <EntityName>Order22</EntityName>
+    <FacilityLocationId>Weld2</FacilityLocationId>
+    <FacilityLocationName>Weld2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>323</TaskId>
+    <StartTime>12/17/2018 1:18:44 PM</StartTime>
+    <EndTime>12/17/2018 1:30:44 PM</EndTime>
+    <EntityId>DefaultEntity.59</EntityId>
+    <EntityName>Order24</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>324</TaskId>
+    <StartTime>12/17/2018 1:18:53 PM</StartTime>
+    <EndTime>12/17/2018 1:30:53 PM</EndTime>
+    <EntityId>DefaultEntity.54</EntityId>
+    <EntityName>Order19</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>325</TaskId>
+    <StartTime>12/17/2018 1:24:55 PM</StartTime>
+    <EndTime>12/17/2018 1:36:55 PM</EndTime>
+    <EntityId>DefaultEntity.57</EntityId>
+    <EntityName>Order22</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>327</TaskId>
+    <StartTime>12/17/2018 1:30:44 PM</StartTime>
+    <EndTime>12/18/2018 11:30:44 AM</EndTime>
+    <EntityId>DefaultEntity.59</EntityId>
+    <EntityName>Order24</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>329</TaskId>
+    <StartTime>12/17/2018 1:30:53 PM</StartTime>
+    <EndTime>12/18/2018 8:54:53 AM</EndTime>
+    <EntityId>DefaultEntity.54</EntityId>
+    <EntityName>Order19</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>331</TaskId>
+    <StartTime>12/17/2018 1:36:55 PM</StartTime>
+    <EndTime>12/18/2018 9:00:55 AM</EndTime>
+    <EntityId>DefaultEntity.57</EntityId>
+    <EntityName>Order22</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>332</TaskId>
+    <StartTime>12/17/2018 2:55:00 PM</StartTime>
+    <EndTime>12/17/2018 3:07:00 PM</EndTime>
+    <EntityId>DefaultEntity.49</EntityId>
+    <EntityName>Order14</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>333</TaskId>
+    <StartTime>12/17/2018 3:01:00 PM</StartTime>
+    <EndTime>12/17/2018 3:13:00 PM</EndTime>
+    <EntityId>DefaultEntity.53</EntityId>
+    <EntityName>Order18</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>334</TaskId>
+    <StartTime>12/18/2018 8:54:53 AM</StartTime>
+    <EndTime>12/18/2018 9:06:53 AM</EndTime>
+    <EntityId>DefaultEntity.54</EntityId>
+    <EntityName>Order19</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>335</TaskId>
+    <StartTime>12/18/2018 9:00:55 AM</StartTime>
+    <EndTime>12/18/2018 9:12:55 AM</EndTime>
+    <EntityId>DefaultEntity.57</EntityId>
+    <EntityName>Order22</EntityName>
+    <FacilityLocationId>Shape2</FacilityLocationId>
+    <FacilityLocationName>Shape2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>336</TaskId>
+    <StartTime>12/18/2018 9:07:04 AM</StartTime>
+    <EndTime>12/18/2018 9:19:04 AM</EndTime>
+    <EntityId>DefaultEntity.54</EntityId>
+    <EntityName>Order19</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>337</TaskId>
+    <StartTime>12/18/2018 9:13:02 AM</StartTime>
+    <EndTime>12/18/2018 9:25:02 AM</EndTime>
+    <EntityId>DefaultEntity.57</EntityId>
+    <EntityName>Order22</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>339</TaskId>
+    <StartTime>12/18/2018 9:19:04 AM</StartTime>
+    <EndTime>12/18/2018 2:19:04 PM</EndTime>
+    <EntityId>DefaultEntity.54</EntityId>
+    <EntityName>Order19</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>341</TaskId>
+    <StartTime>12/18/2018 9:25:02 AM</StartTime>
+    <EndTime>12/18/2018 2:25:02 PM</EndTime>
+    <EntityId>DefaultEntity.57</EntityId>
+    <EntityName>Order22</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>342</TaskId>
+    <StartTime>12/18/2018 11:30:44 AM</StartTime>
+    <EndTime>12/18/2018 11:42:44 AM</EndTime>
+    <EntityId>DefaultEntity.59</EntityId>
+    <EntityName>Order24</EntityName>
+    <FacilityLocationId>Weld1</FacilityLocationId>
+    <FacilityLocationName>Weld1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>343</TaskId>
+    <StartTime>12/18/2018 11:42:57 AM</StartTime>
+    <EndTime>12/18/2018 11:54:57 AM</EndTime>
+    <EntityId>DefaultEntity.59</EntityId>
+    <EntityName>Order24</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>345</TaskId>
+    <StartTime>12/18/2018 11:54:57 AM</StartTime>
+    <EndTime>12/19/2018 8:18:57 AM</EndTime>
+    <EntityId>DefaultEntity.59</EntityId>
+    <EntityName>Order24</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>346</TaskId>
+    <StartTime>12/18/2018 2:19:04 PM</StartTime>
+    <EndTime>12/18/2018 2:31:04 PM</EndTime>
+    <EntityId>DefaultEntity.54</EntityId>
+    <EntityName>Order19</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>347</TaskId>
+    <StartTime>12/18/2018 2:25:02 PM</StartTime>
+    <EndTime>12/18/2018 2:37:02 PM</EndTime>
+    <EntityId>DefaultEntity.57</EntityId>
+    <EntityName>Order22</EntityName>
+    <FacilityLocationId>Finish2</FacilityLocationId>
+    <FacilityLocationName>Finish2</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>348</TaskId>
+    <StartTime>12/19/2018 8:18:57 AM</StartTime>
+    <EndTime>12/19/2018 8:30:57 AM</EndTime>
+    <EntityId>DefaultEntity.59</EntityId>
+    <EntityName>Order24</EntityName>
+    <FacilityLocationId>Shape1</FacilityLocationId>
+    <FacilityLocationName>Shape1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>349</TaskId>
+    <StartTime>12/19/2018 8:31:08 AM</StartTime>
+    <EndTime>12/19/2018 8:43:08 AM</EndTime>
+    <EntityId>DefaultEntity.59</EntityId>
+    <EntityName>Order24</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Consume</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>351</TaskId>
+    <StartTime>12/19/2018 8:43:08 AM</StartTime>
+    <EndTime>12/19/2018 1:43:08 PM</EndTime>
+    <EntityId>DefaultEntity.59</EntityId>
+    <EntityName>Order24</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Process</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+  <SimioAPI.ITaskRecord>
+    <TaskId>352</TaskId>
+    <StartTime>12/19/2018 1:43:08 PM</StartTime>
+    <EndTime>12/19/2018 1:55:08 PM</EndTime>
+    <EntityId>DefaultEntity.59</EntityId>
+    <EntityName>Order24</EntityName>
+    <FacilityLocationId>Finish1</FacilityLocationId>
+    <FacilityLocationName>Finish1</FacilityLocationName>
+    <StationName>Processing</StationName>
+    <TaskSequenceName>ProcessingTaskSequence</TaskSequenceName>
+    <TaskName>Produce</TaskName>
+    <ShowEntityInGantt>True</ShowEntityInGantt>
+  </SimioAPI.ITaskRecord>
+</DocumentElement>
